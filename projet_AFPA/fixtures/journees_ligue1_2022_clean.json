@@ -1,0 +1,4562 @@
+[
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 1,
+            "fields": {
+                  "date_match": "2022-08-06",
+                  "num_journee": "1",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 2,
+            "fields": {
+                  "date_match": "2022-08-07",
+                  "num_journee": "1",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 3,
+            "fields": {
+                  "date_match": "2022-08-06",
+                  "num_journee": "1",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 0,
+                  "buts_vis": 5
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 4,
+            "fields": {
+                  "date_match": "2022-08-07",
+                  "num_journee": "1",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 5,
+            "fields": {
+                  "date_match": "2022-08-05",
+                  "num_journee": "1",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 6,
+            "fields": {
+                  "date_match": "2022-08-07",
+                  "num_journee": "1",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 4,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 7,
+            "fields": {
+                  "date_match": "2022-08-07",
+                  "num_journee": "1",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 8,
+            "fields": {
+                  "date_match": "2022-08-07",
+                  "num_journee": "1",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 3,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 9,
+            "fields": {
+                  "date_match": "2022-08-07",
+                  "num_journee": "1",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 4,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 10,
+            "fields": {
+                  "date_match": "2022-08-07",
+                  "num_journee": "1",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 3,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 11,
+            "fields": {
+                  "date_match": "2022-08-14",
+                  "num_journee": "2",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 12,
+            "fields": {
+                  "date_match": "2022-08-14",
+                  "num_journee": "2",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 2,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 13,
+            "fields": {
+                  "date_match": "2022-08-13",
+                  "num_journee": "2",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 14,
+            "fields": {
+                  "date_match": "2022-09-07",
+                  "num_journee": "2",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 15,
+            "fields": {
+                  "date_match": "2022-08-12",
+                  "num_journee": "2",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 16,
+            "fields": {
+                  "date_match": "2022-08-14",
+                  "num_journee": "2",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 17,
+            "fields": {
+                  "date_match": "2022-08-13",
+                  "num_journee": "2",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 5,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 18,
+            "fields": {
+                  "date_match": "2022-08-14",
+                  "num_journee": "2",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 19,
+            "fields": {
+                  "date_match": "2022-08-14",
+                  "num_journee": "2",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 2,
+                  "buts_vis": 4
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 20,
+            "fields": {
+                  "date_match": "2022-08-14",
+                  "num_journee": "2",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 0,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 21,
+            "fields": {
+                  "date_match": "2022-08-20",
+                  "num_journee": "3",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 1,
+                  "buts_vis": 4
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 22,
+            "fields": {
+                  "date_match": "2022-08-21",
+                  "num_journee": "3",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 23,
+            "fields": {
+                  "date_match": "2022-08-21",
+                  "num_journee": "3",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 24,
+            "fields": {
+                  "date_match": "2022-08-21",
+                  "num_journee": "3",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 1,
+                  "buts_vis": 7
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 25,
+            "fields": {
+                  "date_match": "2022-08-21",
+                  "num_journee": "3",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 26,
+            "fields": {
+                  "date_match": "2022-08-19",
+                  "num_journee": "3",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 4,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 27,
+            "fields": {
+                  "date_match": "2022-08-20",
+                  "num_journee": "3",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 28,
+            "fields": {
+                  "date_match": "2022-08-21",
+                  "num_journee": "3",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 29,
+            "fields": {
+                  "date_match": "2022-08-21",
+                  "num_journee": "3",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 30,
+            "fields": {
+                  "date_match": "2022-08-21",
+                  "num_journee": "3",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 2,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 31,
+            "fields": {
+                  "date_match": "2022-08-26",
+                  "num_journee": "4",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 32,
+            "fields": {
+                  "date_match": "2022-08-27",
+                  "num_journee": "4",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 33,
+            "fields": {
+                  "date_match": "2022-08-28",
+                  "num_journee": "4",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 34,
+            "fields": {
+                  "date_match": "2022-08-28",
+                  "num_journee": "4",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 35,
+            "fields": {
+                  "date_match": "2022-08-28",
+                  "num_journee": "4",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 0,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 36,
+            "fields": {
+                  "date_match": "2022-08-28",
+                  "num_journee": "4",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 37,
+            "fields": {
+                  "date_match": "2022-08-27",
+                  "num_journee": "4",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 38,
+            "fields": {
+                  "date_match": "2022-08-28",
+                  "num_journee": "4",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 0,
+                  "buts_vis": 7
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 39,
+            "fields": {
+                  "date_match": "2022-08-28",
+                  "num_journee": "4",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 40,
+            "fields": {
+                  "date_match": "2022-08-28",
+                  "num_journee": "4",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 41,
+            "fields": {
+                  "date_match": "2022-08-31",
+                  "num_journee": "5",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 2,
+                  "buts_vis": 4
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 42,
+            "fields": {
+                  "date_match": "2022-08-31",
+                  "num_journee": "5",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 2,
+                  "buts_vis": 4
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 43,
+            "fields": {
+                  "date_match": "2022-08-31",
+                  "num_journee": "5",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 44,
+            "fields": {
+                  "date_match": "2022-08-31",
+                  "num_journee": "5",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 2,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 45,
+            "fields": {
+                  "date_match": "2022-08-31",
+                  "num_journee": "5",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 46,
+            "fields": {
+                  "date_match": "2022-08-31",
+                  "num_journee": "5",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 47,
+            "fields": {
+                  "date_match": "2022-08-31",
+                  "num_journee": "5",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 5,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 48,
+            "fields": {
+                  "date_match": "2022-08-31",
+                  "num_journee": "5",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 49,
+            "fields": {
+                  "date_match": "2022-08-31",
+                  "num_journee": "5",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 50,
+            "fields": {
+                  "date_match": "2022-08-31",
+                  "num_journee": "5",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 0,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 51,
+            "fields": {
+                  "date_match": "2022-09-04",
+                  "num_journee": "6",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 52,
+            "fields": {
+                  "date_match": "2022-09-03",
+                  "num_journee": "6",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 53,
+            "fields": {
+                  "date_match": "2022-09-04",
+                  "num_journee": "6",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 2,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 54,
+            "fields": {
+                  "date_match": "2022-09-03",
+                  "num_journee": "6",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 0,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 55,
+            "fields": {
+                  "date_match": "2022-09-04",
+                  "num_journee": "6",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 56,
+            "fields": {
+                  "date_match": "2022-09-04",
+                  "num_journee": "6",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 57,
+            "fields": {
+                  "date_match": "2022-09-03",
+                  "num_journee": "6",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 5,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 58,
+            "fields": {
+                  "date_match": "2022-09-04",
+                  "num_journee": "6",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 59,
+            "fields": {
+                  "date_match": "2022-09-04",
+                  "num_journee": "6",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 60,
+            "fields": {
+                  "date_match": "2022-09-04",
+                  "num_journee": "6",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 61,
+            "fields": {
+                  "date_match": "2022-09-11",
+                  "num_journee": "7",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 62,
+            "fields": {
+                  "date_match": "2022-09-11",
+                  "num_journee": "7",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 63,
+            "fields": {
+                  "date_match": "2022-09-11",
+                  "num_journee": "7",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 64,
+            "fields": {
+                  "date_match": "2022-09-11",
+                  "num_journee": "7",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 3,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 65,
+            "fields": {
+                  "date_match": "2022-09-10",
+                  "num_journee": "7",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 66,
+            "fields": {
+                  "date_match": "2022-09-10",
+                  "num_journee": "7",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 67,
+            "fields": {
+                  "date_match": "2022-09-09",
+                  "num_journee": "7",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 68,
+            "fields": {
+                  "date_match": "2022-09-11",
+                  "num_journee": "7",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 69,
+            "fields": {
+                  "date_match": "2022-09-11",
+                  "num_journee": "7",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 5,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 70,
+            "fields": {
+                  "date_match": "2022-09-11",
+                  "num_journee": "7",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 71,
+            "fields": {
+                  "date_match": "2022-09-16",
+                  "num_journee": "8",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 72,
+            "fields": {
+                  "date_match": "2022-09-18",
+                  "num_journee": "8",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 73,
+            "fields": {
+                  "date_match": "2022-09-18",
+                  "num_journee": "8",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 74,
+            "fields": {
+                  "date_match": "2022-09-17",
+                  "num_journee": "8",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 75,
+            "fields": {
+                  "date_match": "2022-09-17",
+                  "num_journee": "8",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 76,
+            "fields": {
+                  "date_match": "2022-09-18",
+                  "num_journee": "8",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 77,
+            "fields": {
+                  "date_match": "2022-09-18",
+                  "num_journee": "8",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 78,
+            "fields": {
+                  "date_match": "2022-09-18",
+                  "num_journee": "8",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 79,
+            "fields": {
+                  "date_match": "2022-09-18",
+                  "num_journee": "8",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 80,
+            "fields": {
+                  "date_match": "2022-09-18",
+                  "num_journee": "8",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 0,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 81,
+            "fields": {
+                  "date_match": "2022-10-02",
+                  "num_journee": "9",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 82,
+            "fields": {
+                  "date_match": "2022-10-02",
+                  "num_journee": "9",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 83,
+            "fields": {
+                  "date_match": "2022-10-02",
+                  "num_journee": "9",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 4,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 84,
+            "fields": {
+                  "date_match": "2022-09-30",
+                  "num_journee": "9",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 0,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 85,
+            "fields": {
+                  "date_match": "2022-10-02",
+                  "num_journee": "9",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 86,
+            "fields": {
+                  "date_match": "2022-10-01",
+                  "num_journee": "9",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 87,
+            "fields": {
+                  "date_match": "2022-10-02",
+                  "num_journee": "9",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 88,
+            "fields": {
+                  "date_match": "2022-10-01",
+                  "num_journee": "9",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 89,
+            "fields": {
+                  "date_match": "2022-10-02",
+                  "num_journee": "9",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 4,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 90,
+            "fields": {
+                  "date_match": "2022-10-02",
+                  "num_journee": "9",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 2,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 91,
+            "fields": {
+                  "date_match": "2022-10-09",
+                  "num_journee": "10",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 2,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 92,
+            "fields": {
+                  "date_match": "2022-10-09",
+                  "num_journee": "10",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 93,
+            "fields": {
+                  "date_match": "2022-10-09",
+                  "num_journee": "10",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 94,
+            "fields": {
+                  "date_match": "2022-10-09",
+                  "num_journee": "10",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 95,
+            "fields": {
+                  "date_match": "2022-10-09",
+                  "num_journee": "10",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 3,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 96,
+            "fields": {
+                  "date_match": "2022-10-07",
+                  "num_journee": "10",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 97,
+            "fields": {
+                  "date_match": "2022-10-08",
+                  "num_journee": "10",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 98,
+            "fields": {
+                  "date_match": "2022-10-09",
+                  "num_journee": "10",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 99,
+            "fields": {
+                  "date_match": "2022-10-09",
+                  "num_journee": "10",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 3,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 100,
+            "fields": {
+                  "date_match": "2022-10-08",
+                  "num_journee": "10",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 101,
+            "fields": {
+                  "date_match": "2022-10-16",
+                  "num_journee": "11",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 102,
+            "fields": {
+                  "date_match": "2022-10-16",
+                  "num_journee": "11",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 103,
+            "fields": {
+                  "date_match": "2022-10-15",
+                  "num_journee": "11",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 104,
+            "fields": {
+                  "date_match": "2022-10-16",
+                  "num_journee": "11",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 4,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 105,
+            "fields": {
+                  "date_match": "2022-10-16",
+                  "num_journee": "11",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 106,
+            "fields": {
+                  "date_match": "2022-10-15",
+                  "num_journee": "11",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 107,
+            "fields": {
+                  "date_match": "2022-10-14",
+                  "num_journee": "11",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 0,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 108,
+            "fields": {
+                  "date_match": "2022-10-16",
+                  "num_journee": "11",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 3,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 109,
+            "fields": {
+                  "date_match": "2022-10-16",
+                  "num_journee": "11",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 3,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 110,
+            "fields": {
+                  "date_match": "2022-10-16",
+                  "num_journee": "11",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 111,
+            "fields": {
+                  "date_match": "2022-10-21",
+                  "num_journee": "12",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 0,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 112,
+            "fields": {
+                  "date_match": "2022-10-23",
+                  "num_journee": "12",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 113,
+            "fields": {
+                  "date_match": "2022-10-23",
+                  "num_journee": "12",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 114,
+            "fields": {
+                  "date_match": "2022-10-23",
+                  "num_journee": "12",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 4,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 115,
+            "fields": {
+                  "date_match": "2022-10-22",
+                  "num_journee": "12",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 116,
+            "fields": {
+                  "date_match": "2022-10-23",
+                  "num_journee": "12",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 117,
+            "fields": {
+                  "date_match": "2022-10-22",
+                  "num_journee": "12",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 118,
+            "fields": {
+                  "date_match": "2022-10-23",
+                  "num_journee": "12",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 119,
+            "fields": {
+                  "date_match": "2022-10-23",
+                  "num_journee": "12",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 2,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 120,
+            "fields": {
+                  "date_match": "2022-10-23",
+                  "num_journee": "12",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 2,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 121,
+            "fields": {
+                  "date_match": "2022-10-30",
+                  "num_journee": "13",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 122,
+            "fields": {
+                  "date_match": "2022-10-30",
+                  "num_journee": "13",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 2,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 123,
+            "fields": {
+                  "date_match": "2022-10-30",
+                  "num_journee": "13",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 124,
+            "fields": {
+                  "date_match": "2022-10-30",
+                  "num_journee": "13",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 125,
+            "fields": {
+                  "date_match": "2022-10-30",
+                  "num_journee": "13",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 126,
+            "fields": {
+                  "date_match": "2022-10-29",
+                  "num_journee": "13",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 4,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 127,
+            "fields": {
+                  "date_match": "2022-10-28",
+                  "num_journee": "13",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 3,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 128,
+            "fields": {
+                  "date_match": "2022-10-29",
+                  "num_journee": "13",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 2,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 129,
+            "fields": {
+                  "date_match": "2022-10-30",
+                  "num_journee": "13",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 130,
+            "fields": {
+                  "date_match": "2022-10-30",
+                  "num_journee": "13",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 3,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 131,
+            "fields": {
+                  "date_match": "2022-11-05",
+                  "num_journee": "14",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 4,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 132,
+            "fields": {
+                  "date_match": "2022-11-05",
+                  "num_journee": "14",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 133,
+            "fields": {
+                  "date_match": "2022-11-06",
+                  "num_journee": "14",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 134,
+            "fields": {
+                  "date_match": "2022-11-06",
+                  "num_journee": "14",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 135,
+            "fields": {
+                  "date_match": "2022-11-06",
+                  "num_journee": "14",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 136,
+            "fields": {
+                  "date_match": "2022-11-06",
+                  "num_journee": "14",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 137,
+            "fields": {
+                  "date_match": "2022-11-06",
+                  "num_journee": "14",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 138,
+            "fields": {
+                  "date_match": "2022-11-06",
+                  "num_journee": "14",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 139,
+            "fields": {
+                  "date_match": "2022-11-06",
+                  "num_journee": "14",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 140,
+            "fields": {
+                  "date_match": "2022-11-04",
+                  "num_journee": "14",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 141,
+            "fields": {
+                  "date_match": "2022-11-13",
+                  "num_journee": "15",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 2,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 142,
+            "fields": {
+                  "date_match": "2022-11-13",
+                  "num_journee": "15",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 2,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 143,
+            "fields": {
+                  "date_match": "2022-11-13",
+                  "num_journee": "15",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 144,
+            "fields": {
+                  "date_match": "2022-11-13",
+                  "num_journee": "15",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 145,
+            "fields": {
+                  "date_match": "2022-11-11",
+                  "num_journee": "15",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 146,
+            "fields": {
+                  "date_match": "2022-11-13",
+                  "num_journee": "15",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 5,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 147,
+            "fields": {
+                  "date_match": "2022-11-12",
+                  "num_journee": "15",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 148,
+            "fields": {
+                  "date_match": "2022-11-13",
+                  "num_journee": "15",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 149,
+            "fields": {
+                  "date_match": "2022-11-13",
+                  "num_journee": "15",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 150,
+            "fields": {
+                  "date_match": "2022-11-12",
+                  "num_journee": "15",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 151,
+            "fields": {
+                  "date_match": "2022-12-28",
+                  "num_journee": "16",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 152,
+            "fields": {
+                  "date_match": "2022-12-28",
+                  "num_journee": "16",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 2,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 153,
+            "fields": {
+                  "date_match": "2022-12-28",
+                  "num_journee": "16",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 154,
+            "fields": {
+                  "date_match": "2022-12-29",
+                  "num_journee": "16",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 155,
+            "fields": {
+                  "date_match": "2022-12-29",
+                  "num_journee": "16",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 156,
+            "fields": {
+                  "date_match": "2022-12-29",
+                  "num_journee": "16",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 6,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 157,
+            "fields": {
+                  "date_match": "2022-12-28",
+                  "num_journee": "16",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 158,
+            "fields": {
+                  "date_match": "2022-12-28",
+                  "num_journee": "16",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 2,
+                  "buts_vis": 4
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 159,
+            "fields": {
+                  "date_match": "2022-12-29",
+                  "num_journee": "16",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 160,
+            "fields": {
+                  "date_match": "2022-12-28",
+                  "num_journee": "16",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 161,
+            "fields": {
+                  "date_match": "2023-01-01",
+                  "num_journee": "17",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 162,
+            "fields": {
+                  "date_match": "2023-01-01",
+                  "num_journee": "17",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 163,
+            "fields": {
+                  "date_match": "2023-01-02",
+                  "num_journee": "17",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 164,
+            "fields": {
+                  "date_match": "2023-01-01",
+                  "num_journee": "17",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 165,
+            "fields": {
+                  "date_match": "2023-01-01",
+                  "num_journee": "17",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 166,
+            "fields": {
+                  "date_match": "2023-01-02",
+                  "num_journee": "17",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 167,
+            "fields": {
+                  "date_match": "2023-01-01",
+                  "num_journee": "17",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 2,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 168,
+            "fields": {
+                  "date_match": "2023-01-01",
+                  "num_journee": "17",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 169,
+            "fields": {
+                  "date_match": "2023-01-02",
+                  "num_journee": "17",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 170,
+            "fields": {
+                  "date_match": "2023-01-02",
+                  "num_journee": "17",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 2,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 171,
+            "fields": {
+                  "date_match": "2023-01-11",
+                  "num_journee": "18",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 172,
+            "fields": {
+                  "date_match": "2023-01-11",
+                  "num_journee": "18",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 0,
+                  "buts_vis": 5
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 173,
+            "fields": {
+                  "date_match": "2023-01-11",
+                  "num_journee": "18",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 174,
+            "fields": {
+                  "date_match": "2023-01-11",
+                  "num_journee": "18",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 2,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 175,
+            "fields": {
+                  "date_match": "2023-01-11",
+                  "num_journee": "18",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 176,
+            "fields": {
+                  "date_match": "2023-01-11",
+                  "num_journee": "18",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 6,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 177,
+            "fields": {
+                  "date_match": "2023-01-11",
+                  "num_journee": "18",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 2,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 178,
+            "fields": {
+                  "date_match": "2023-01-11",
+                  "num_journee": "18",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 2,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 179,
+            "fields": {
+                  "date_match": "2023-01-11",
+                  "num_journee": "18",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 180,
+            "fields": {
+                  "date_match": "2023-01-11",
+                  "num_journee": "18",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 181,
+            "fields": {
+                  "date_match": "2023-01-15",
+                  "num_journee": "19",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 7,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 182,
+            "fields": {
+                  "date_match": "2023-01-15",
+                  "num_journee": "19",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 183,
+            "fields": {
+                  "date_match": "2023-01-15",
+                  "num_journee": "19",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 5,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 184,
+            "fields": {
+                  "date_match": "2023-01-15",
+                  "num_journee": "19",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 0,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 185,
+            "fields": {
+                  "date_match": "2023-01-14",
+                  "num_journee": "19",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 186,
+            "fields": {
+                  "date_match": "2023-01-14",
+                  "num_journee": "19",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 187,
+            "fields": {
+                  "date_match": "2023-01-14",
+                  "num_journee": "19",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 188,
+            "fields": {
+                  "date_match": "2023-01-15",
+                  "num_journee": "19",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 189,
+            "fields": {
+                  "date_match": "2023-01-15",
+                  "num_journee": "19",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 190,
+            "fields": {
+                  "date_match": "2023-01-15",
+                  "num_journee": "19",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 191,
+            "fields": {
+                  "date_match": "2023-01-29",
+                  "num_journee": "20",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 192,
+            "fields": {
+                  "date_match": "2023-01-29",
+                  "num_journee": "20",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 193,
+            "fields": {
+                  "date_match": "2023-01-29",
+                  "num_journee": "20",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 194,
+            "fields": {
+                  "date_match": "2023-01-27",
+                  "num_journee": "20",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 195,
+            "fields": {
+                  "date_match": "2023-01-29",
+                  "num_journee": "20",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 196,
+            "fields": {
+                  "date_match": "2023-01-28",
+                  "num_journee": "20",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 197,
+            "fields": {
+                  "date_match": "2023-01-29",
+                  "num_journee": "20",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 198,
+            "fields": {
+                  "date_match": "2023-01-29",
+                  "num_journee": "20",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 199,
+            "fields": {
+                  "date_match": "2023-01-29",
+                  "num_journee": "20",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 4,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 200,
+            "fields": {
+                  "date_match": "2023-01-28",
+                  "num_journee": "20",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 201,
+            "fields": {
+                  "date_match": "2023-02-01",
+                  "num_journee": "21",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 202,
+            "fields": {
+                  "date_match": "2023-02-01",
+                  "num_journee": "21",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 203,
+            "fields": {
+                  "date_match": "2023-02-01",
+                  "num_journee": "21",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 4,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 204,
+            "fields": {
+                  "date_match": "2023-02-01",
+                  "num_journee": "21",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 3,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 205,
+            "fields": {
+                  "date_match": "2023-02-01",
+                  "num_journee": "21",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 206,
+            "fields": {
+                  "date_match": "2023-02-01",
+                  "num_journee": "21",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 207,
+            "fields": {
+                  "date_match": "2023-02-01",
+                  "num_journee": "21",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 208,
+            "fields": {
+                  "date_match": "2023-02-01",
+                  "num_journee": "21",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 209,
+            "fields": {
+                  "date_match": "2023-02-01",
+                  "num_journee": "21",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 3,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 210,
+            "fields": {
+                  "date_match": "2023-02-01",
+                  "num_journee": "21",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 4,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 211,
+            "fields": {
+                  "date_match": "2023-02-05",
+                  "num_journee": "22",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 212,
+            "fields": {
+                  "date_match": "2023-02-05",
+                  "num_journee": "22",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 213,
+            "fields": {
+                  "date_match": "2023-02-05",
+                  "num_journee": "22",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 214,
+            "fields": {
+                  "date_match": "2023-02-05",
+                  "num_journee": "22",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 215,
+            "fields": {
+                  "date_match": "2023-02-05",
+                  "num_journee": "22",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 216,
+            "fields": {
+                  "date_match": "2023-02-04",
+                  "num_journee": "22",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 217,
+            "fields": {
+                  "date_match": "2023-02-05",
+                  "num_journee": "22",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 2,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 218,
+            "fields": {
+                  "date_match": "2023-02-05",
+                  "num_journee": "22",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 219,
+            "fields": {
+                  "date_match": "2023-02-04",
+                  "num_journee": "22",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 220,
+            "fields": {
+                  "date_match": "2023-02-04",
+                  "num_journee": "22",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 221,
+            "fields": {
+                  "date_match": "2023-02-11",
+                  "num_journee": "23",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 222,
+            "fields": {
+                  "date_match": "2023-02-12",
+                  "num_journee": "23",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 223,
+            "fields": {
+                  "date_match": "2023-02-11",
+                  "num_journee": "23",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 224,
+            "fields": {
+                  "date_match": "2023-02-12",
+                  "num_journee": "23",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 225,
+            "fields": {
+                  "date_match": "2023-02-12",
+                  "num_journee": "23",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 2,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 226,
+            "fields": {
+                  "date_match": "2023-02-12",
+                  "num_journee": "23",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 3,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 227,
+            "fields": {
+                  "date_match": "2023-02-10",
+                  "num_journee": "23",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 3,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 228,
+            "fields": {
+                  "date_match": "2023-02-12",
+                  "num_journee": "23",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 229,
+            "fields": {
+                  "date_match": "2023-02-12",
+                  "num_journee": "23",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 4,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 230,
+            "fields": {
+                  "date_match": "2023-02-12",
+                  "num_journee": "23",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 231,
+            "fields": {
+                  "date_match": "2023-02-17",
+                  "num_journee": "24",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 232,
+            "fields": {
+                  "date_match": "2023-02-19",
+                  "num_journee": "24",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 3,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 233,
+            "fields": {
+                  "date_match": "2023-02-18",
+                  "num_journee": "24",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 234,
+            "fields": {
+                  "date_match": "2023-02-19",
+                  "num_journee": "24",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 4,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 235,
+            "fields": {
+                  "date_match": "2023-02-19",
+                  "num_journee": "24",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 236,
+            "fields": {
+                  "date_match": "2023-02-18",
+                  "num_journee": "24",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 237,
+            "fields": {
+                  "date_match": "2023-02-19",
+                  "num_journee": "24",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 238,
+            "fields": {
+                  "date_match": "2023-02-19",
+                  "num_journee": "24",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 2,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 239,
+            "fields": {
+                  "date_match": "2023-02-19",
+                  "num_journee": "24",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 2,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 240,
+            "fields": {
+                  "date_match": "2023-02-19",
+                  "num_journee": "24",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 241,
+            "fields": {
+                  "date_match": "2023-02-26",
+                  "num_journee": "25",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 242,
+            "fields": {
+                  "date_match": "2023-02-26",
+                  "num_journee": "25",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 0,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 243,
+            "fields": {
+                  "date_match": "2023-02-25",
+                  "num_journee": "25",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 244,
+            "fields": {
+                  "date_match": "2023-02-26",
+                  "num_journee": "25",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 245,
+            "fields": {
+                  "date_match": "2023-02-26",
+                  "num_journee": "25",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 246,
+            "fields": {
+                  "date_match": "2023-02-26",
+                  "num_journee": "25",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 247,
+            "fields": {
+                  "date_match": "2023-02-24",
+                  "num_journee": "25",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 248,
+            "fields": {
+                  "date_match": "2023-02-25",
+                  "num_journee": "25",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 249,
+            "fields": {
+                  "date_match": "2023-02-26",
+                  "num_journee": "25",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 0,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 250,
+            "fields": {
+                  "date_match": "2023-02-26",
+                  "num_journee": "25",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 3,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 251,
+            "fields": {
+                  "date_match": "2023-03-05",
+                  "num_journee": "26",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 5,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 252,
+            "fields": {
+                  "date_match": "2023-03-03",
+                  "num_journee": "26",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 253,
+            "fields": {
+                  "date_match": "2023-03-05",
+                  "num_journee": "26",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 254,
+            "fields": {
+                  "date_match": "2023-03-04",
+                  "num_journee": "26",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 4,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 255,
+            "fields": {
+                  "date_match": "2023-03-04",
+                  "num_journee": "26",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 256,
+            "fields": {
+                  "date_match": "2023-03-05",
+                  "num_journee": "26",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 257,
+            "fields": {
+                  "date_match": "2023-03-05",
+                  "num_journee": "26",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 258,
+            "fields": {
+                  "date_match": "2023-03-05",
+                  "num_journee": "26",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 259,
+            "fields": {
+                  "date_match": "2023-03-05",
+                  "num_journee": "26",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 260,
+            "fields": {
+                  "date_match": "2023-03-05",
+                  "num_journee": "26",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 2,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 261,
+            "fields": {
+                  "date_match": "2023-03-12",
+                  "num_journee": "27",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 262,
+            "fields": {
+                  "date_match": "2023-03-11",
+                  "num_journee": "27",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 263,
+            "fields": {
+                  "date_match": "2023-03-12",
+                  "num_journee": "27",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 264,
+            "fields": {
+                  "date_match": "2023-03-12",
+                  "num_journee": "27",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 265,
+            "fields": {
+                  "date_match": "2023-03-12",
+                  "num_journee": "27",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 0,
+                  "buts_vis": 4
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 266,
+            "fields": {
+                  "date_match": "2023-03-12",
+                  "num_journee": "27",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 2,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 267,
+            "fields": {
+                  "date_match": "2023-03-12",
+                  "num_journee": "27",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 2,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 268,
+            "fields": {
+                  "date_match": "2023-03-10",
+                  "num_journee": "27",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 3,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 269,
+            "fields": {
+                  "date_match": "2023-03-12",
+                  "num_journee": "27",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 2,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 270,
+            "fields": {
+                  "date_match": "2023-03-11",
+                  "num_journee": "27",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 271,
+            "fields": {
+                  "date_match": "2023-03-19",
+                  "num_journee": "28",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 272,
+            "fields": {
+                  "date_match": "2023-03-19",
+                  "num_journee": "28",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 273,
+            "fields": {
+                  "date_match": "2023-03-19",
+                  "num_journee": "28",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 274,
+            "fields": {
+                  "date_match": "2023-03-17",
+                  "num_journee": "28",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 275,
+            "fields": {
+                  "date_match": "2023-03-19",
+                  "num_journee": "28",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 276,
+            "fields": {
+                  "date_match": "2023-03-18",
+                  "num_journee": "28",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 3,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 277,
+            "fields": {
+                  "date_match": "2023-03-19",
+                  "num_journee": "28",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 2,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 278,
+            "fields": {
+                  "date_match": "2023-03-19",
+                  "num_journee": "28",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 279,
+            "fields": {
+                  "date_match": "2023-03-18",
+                  "num_journee": "28",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 280,
+            "fields": {
+                  "date_match": "2023-03-19",
+                  "num_journee": "28",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 2,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 281,
+            "fields": {
+                  "date_match": "2023-04-01",
+                  "num_journee": "29",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 282,
+            "fields": {
+                  "date_match": "2023-04-02",
+                  "num_journee": "29",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 4,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 283,
+            "fields": {
+                  "date_match": "2023-04-02",
+                  "num_journee": "29",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 284,
+            "fields": {
+                  "date_match": "2023-04-02",
+                  "num_journee": "29",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 285,
+            "fields": {
+                  "date_match": "2023-04-02",
+                  "num_journee": "29",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 0,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 286,
+            "fields": {
+                  "date_match": "2023-04-02",
+                  "num_journee": "29",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 287,
+            "fields": {
+                  "date_match": "2023-03-31",
+                  "num_journee": "29",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 288,
+            "fields": {
+                  "date_match": "2023-04-02",
+                  "num_journee": "29",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 289,
+            "fields": {
+                  "date_match": "2023-04-02",
+                  "num_journee": "29",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 290,
+            "fields": {
+                  "date_match": "2023-04-01",
+                  "num_journee": "29",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 291,
+            "fields": {
+                  "date_match": "2023-04-09",
+                  "num_journee": "30",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 0,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 292,
+            "fields": {
+                  "date_match": "2023-04-08",
+                  "num_journee": "30",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 293,
+            "fields": {
+                  "date_match": "2023-04-09",
+                  "num_journee": "30",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 294,
+            "fields": {
+                  "date_match": "2023-04-09",
+                  "num_journee": "30",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 2,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 295,
+            "fields": {
+                  "date_match": "2023-04-09",
+                  "num_journee": "30",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 296,
+            "fields": {
+                  "date_match": "2023-04-08",
+                  "num_journee": "30",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 297,
+            "fields": {
+                  "date_match": "2023-04-09",
+                  "num_journee": "30",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 298,
+            "fields": {
+                  "date_match": "2023-04-07",
+                  "num_journee": "30",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 299,
+            "fields": {
+                  "date_match": "2023-04-09",
+                  "num_journee": "30",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 300,
+            "fields": {
+                  "date_match": "2023-04-09",
+                  "num_journee": "30",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 301,
+            "fields": {
+                  "date_match": "2023-04-16",
+                  "num_journee": "31",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 302,
+            "fields": {
+                  "date_match": "2023-04-16",
+                  "num_journee": "31",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 303,
+            "fields": {
+                  "date_match": "2023-04-16",
+                  "num_journee": "31",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 304,
+            "fields": {
+                  "date_match": "2023-04-16",
+                  "num_journee": "31",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 305,
+            "fields": {
+                  "date_match": "2023-04-16",
+                  "num_journee": "31",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 306,
+            "fields": {
+                  "date_match": "2023-04-15",
+                  "num_journee": "31",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 307,
+            "fields": {
+                  "date_match": "2023-04-16",
+                  "num_journee": "31",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 308,
+            "fields": {
+                  "date_match": "2023-04-16",
+                  "num_journee": "31",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 309,
+            "fields": {
+                  "date_match": "2023-04-15",
+                  "num_journee": "31",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 3,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 310,
+            "fields": {
+                  "date_match": "2023-04-14",
+                  "num_journee": "31",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 311,
+            "fields": {
+                  "date_match": "2023-04-23",
+                  "num_journee": "32",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 312,
+            "fields": {
+                  "date_match": "2023-04-22",
+                  "num_journee": "32",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 313,
+            "fields": {
+                  "date_match": "2023-04-21",
+                  "num_journee": "32",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 314,
+            "fields": {
+                  "date_match": "2023-04-23",
+                  "num_journee": "32",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 315,
+            "fields": {
+                  "date_match": "2023-04-23",
+                  "num_journee": "32",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 2,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 316,
+            "fields": {
+                  "date_match": "2023-04-23",
+                  "num_journee": "32",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 317,
+            "fields": {
+                  "date_match": "2023-04-23",
+                  "num_journee": "32",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 318,
+            "fields": {
+                  "date_match": "2023-04-23",
+                  "num_journee": "32",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 319,
+            "fields": {
+                  "date_match": "2023-04-22",
+                  "num_journee": "32",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 3,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 320,
+            "fields": {
+                  "date_match": "2023-04-23",
+                  "num_journee": "32",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 321,
+            "fields": {
+                  "date_match": "2023-04-30",
+                  "num_journee": "33",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 0,
+                  "buts_vis": 4
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 322,
+            "fields": {
+                  "date_match": "2023-04-30",
+                  "num_journee": "33",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 323,
+            "fields": {
+                  "date_match": "2023-04-29",
+                  "num_journee": "33",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 3,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 324,
+            "fields": {
+                  "date_match": "2023-04-30",
+                  "num_journee": "33",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 325,
+            "fields": {
+                  "date_match": "2023-04-30",
+                  "num_journee": "33",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 326,
+            "fields": {
+                  "date_match": "2023-04-28",
+                  "num_journee": "33",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 327,
+            "fields": {
+                  "date_match": "2023-05-03",
+                  "num_journee": "33",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 2,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 328,
+            "fields": {
+                  "date_match": "2023-04-30",
+                  "num_journee": "33",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 4,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 329,
+            "fields": {
+                  "date_match": "2023-05-02",
+                  "num_journee": "33",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 330,
+            "fields": {
+                  "date_match": "2023-04-30",
+                  "num_journee": "33",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 0,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 331,
+            "fields": {
+                  "date_match": "2023-05-07",
+                  "num_journee": "34",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 332,
+            "fields": {
+                  "date_match": "2023-05-07",
+                  "num_journee": "34",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 333,
+            "fields": {
+                  "date_match": "2023-05-07",
+                  "num_journee": "34",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 334,
+            "fields": {
+                  "date_match": "2023-05-07",
+                  "num_journee": "34",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 335,
+            "fields": {
+                  "date_match": "2023-05-07",
+                  "num_journee": "34",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 0,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 336,
+            "fields": {
+                  "date_match": "2023-05-06",
+                  "num_journee": "34",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 337,
+            "fields": {
+                  "date_match": "2023-05-07",
+                  "num_journee": "34",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 5,
+                  "buts_vis": 4
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 338,
+            "fields": {
+                  "date_match": "2023-05-06",
+                  "num_journee": "34",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 339,
+            "fields": {
+                  "date_match": "2023-05-06",
+                  "num_journee": "34",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 340,
+            "fields": {
+                  "date_match": "2023-05-07",
+                  "num_journee": "34",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 341,
+            "fields": {
+                  "date_match": "2023-05-14",
+                  "num_journee": "35",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 342,
+            "fields": {
+                  "date_match": "2023-05-14",
+                  "num_journee": "35",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 343,
+            "fields": {
+                  "date_match": "2023-05-14",
+                  "num_journee": "35",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 344,
+            "fields": {
+                  "date_match": "2023-05-14",
+                  "num_journee": "35",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 345,
+            "fields": {
+                  "date_match": "2023-05-13",
+                  "num_journee": "35",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 5,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 346,
+            "fields": {
+                  "date_match": "2023-05-12",
+                  "num_journee": "35",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 347,
+            "fields": {
+                  "date_match": "2023-05-13",
+                  "num_journee": "35",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 2,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 348,
+            "fields": {
+                  "date_match": "2023-05-14",
+                  "num_journee": "35",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 349,
+            "fields": {
+                  "date_match": "2023-05-14",
+                  "num_journee": "35",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 4,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 350,
+            "fields": {
+                  "date_match": "2023-05-14",
+                  "num_journee": "35",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 351,
+            "fields": {
+                  "date_match": "2023-05-21",
+                  "num_journee": "36",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 0,
+                  "buts_vis": 5
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 352,
+            "fields": {
+                  "date_match": "2023-05-21",
+                  "num_journee": "36",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 353,
+            "fields": {
+                  "date_match": "2023-05-21",
+                  "num_journee": "36",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 354,
+            "fields": {
+                  "date_match": "2023-05-20",
+                  "num_journee": "36",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 0,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 355,
+            "fields": {
+                  "date_match": "2023-05-20",
+                  "num_journee": "36",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 356,
+            "fields": {
+                  "date_match": "2023-05-21",
+                  "num_journee": "36",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 0,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 357,
+            "fields": {
+                  "date_match": "2023-05-19",
+                  "num_journee": "36",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 358,
+            "fields": {
+                  "date_match": "2023-05-21",
+                  "num_journee": "36",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 359,
+            "fields": {
+                  "date_match": "2023-05-21",
+                  "num_journee": "36",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 2,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 360,
+            "fields": {
+                  "date_match": "2023-05-21",
+                  "num_journee": "36",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 361,
+            "fields": {
+                  "date_match": "2023-05-27",
+                  "num_journee": "37",
+                  "equipe_dom": "Angers",
+                  "equipe_vis": "Estac Troyes",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 362,
+            "fields": {
+                  "date_match": "2023-05-27",
+                  "num_journee": "37",
+                  "equipe_dom": "Clermont Foot",
+                  "equipe_vis": "Lorient",
+                  "buts_dom": 2,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 363,
+            "fields": {
+                  "date_match": "2023-05-27",
+                  "num_journee": "37",
+                  "equipe_dom": "Lille",
+                  "equipe_vis": "Nantes",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 364,
+            "fields": {
+                  "date_match": "2023-05-27",
+                  "num_journee": "37",
+                  "equipe_dom": "Montpellier",
+                  "equipe_vis": "Nice",
+                  "buts_dom": 2,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 365,
+            "fields": {
+                  "date_match": "2023-05-27",
+                  "num_journee": "37",
+                  "equipe_dom": "Lyon",
+                  "equipe_vis": "Reims",
+                  "buts_dom": 3,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 366,
+            "fields": {
+                  "date_match": "2023-05-27",
+                  "num_journee": "37",
+                  "equipe_dom": "Marseille",
+                  "equipe_vis": "Stade Brestois 29",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 367,
+            "fields": {
+                  "date_match": "2023-05-27",
+                  "num_journee": "37",
+                  "equipe_dom": "Lens",
+                  "equipe_vis": "Ajaccio",
+                  "buts_dom": 3,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 368,
+            "fields": {
+                  "date_match": "2023-05-27",
+                  "num_journee": "37",
+                  "equipe_dom": "Strasbourg",
+                  "equipe_vis": "Paris Saint Germain",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 369,
+            "fields": {
+                  "date_match": "2023-05-27",
+                  "num_journee": "37",
+                  "equipe_dom": "Rennes",
+                  "equipe_vis": "Monaco",
+                  "buts_dom": 2,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 370,
+            "fields": {
+                  "date_match": "2023-05-27",
+                  "num_journee": "37",
+                  "equipe_dom": "Toulouse",
+                  "equipe_vis": "Auxerre",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 371,
+            "fields": {
+                  "date_match": "2023-06-03",
+                  "num_journee": "38",
+                  "equipe_dom": "Ajaccio",
+                  "equipe_vis": "Marseille",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 372,
+            "fields": {
+                  "date_match": "2023-06-03",
+                  "num_journee": "38",
+                  "equipe_dom": "Auxerre",
+                  "equipe_vis": "Lens",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 373,
+            "fields": {
+                  "date_match": "2023-06-03",
+                  "num_journee": "38",
+                  "equipe_dom": "Monaco",
+                  "equipe_vis": "Toulouse",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 374,
+            "fields": {
+                  "date_match": "2023-06-03",
+                  "num_journee": "38",
+                  "equipe_dom": "Lorient",
+                  "equipe_vis": "Strasbourg",
+                  "buts_dom": 2,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 375,
+            "fields": {
+                  "date_match": "2023-06-03",
+                  "num_journee": "38",
+                  "equipe_dom": "Nantes",
+                  "equipe_vis": "Angers",
+                  "buts_dom": 1,
+                  "buts_vis": 0
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 376,
+            "fields": {
+                  "date_match": "2023-06-03",
+                  "num_journee": "38",
+                  "equipe_dom": "Nice",
+                  "equipe_vis": "Lyon",
+                  "buts_dom": 3,
+                  "buts_vis": 1
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 377,
+            "fields": {
+                  "date_match": "2023-06-03",
+                  "num_journee": "38",
+                  "equipe_dom": "Paris Saint Germain",
+                  "equipe_vis": "Clermont Foot",
+                  "buts_dom": 2,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 378,
+            "fields": {
+                  "date_match": "2023-06-03",
+                  "num_journee": "38",
+                  "equipe_dom": "Stade Brestois 29",
+                  "equipe_vis": "Rennes",
+                  "buts_dom": 1,
+                  "buts_vis": 2
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 379,
+            "fields": {
+                  "date_match": "2023-06-03",
+                  "num_journee": "38",
+                  "equipe_dom": "Reims",
+                  "equipe_vis": "Montpellier",
+                  "buts_dom": 1,
+                  "buts_vis": 3
+            }
+      },
+      {
+            "model": "projet_AFPA.rencontre",
+            "pk": 380,
+            "fields": {
+                  "date_match": "2023-06-03",
+                  "num_journee": "38",
+                  "equipe_dom": "Estac Troyes",
+                  "equipe_vis": "Lille",
+                  "buts_dom": 1,
+                  "buts_vis": 1
+            }
+      }
+]
