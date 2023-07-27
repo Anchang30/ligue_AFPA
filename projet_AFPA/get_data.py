@@ -9,24 +9,27 @@ headers = {
 	"X-RapidAPI-Host": "api-football-v1.p.rapidapi.com"
 }
 
-liste_clubs = {'AS MONACO': 'Monaco',
- 'CLERMONT FOOT 63': 'Clermont-Ferrand',
- 'FC LORIENT': 'Lorient',
- 'FC METZ': 'Metz',
- 'FC NANTES': 'Nantes',
- 'HAVRE AC': 'Le Havre',
- 'LOSC LILLE': 'Lille',
- 'MONTPELLIER HERAULT SC': 'Montpellier',
- 'OGC NICE': 'Nice',
- 'OLYMPIQUE DE MARSEILLE': 'Marseille',
- 'OLYMPIQUE LYONNAIS': 'Lyon',
- 'PARIS SAINT-GERMAIN': 'Paris',
- 'RC LENS': 'Lens',
- 'RC STRASBOURG ALSACE': 'Strasbourg',
- 'STADE BRESTOIS 29': 'Brest',
- 'STADE DE REIMS': 'Reims',
- 'STADE RENNAIS FC': 'Rennes',
- 'TOULOUSE FC': 'Toulouse'}
+conv_clubs = {'Stade Brestois 29':' STADE BRESTOIS 29',
+'Clermont Foot':'CLERMONT FOOT 63',
+'Paris Saint Germain' : 'PARIS SAINT-GERMAIN',
+'Strasbourg': 'RC STRASBOURG ALSACE',
+ 'Nice': 'OGC NICE',
+ 'Auxerre': 'AJ AUXERRE',
+ 'Angers': 'ANGERS SCO',
+ 'Ajaccio': 'AC AJACCIO',
+ 'Montpellier': 'MONTPELLIER HERAULT SC',
+ 'Marseille': 'OLYMPIQUE DE MARSEILLE',
+ 'Monaco': 'AS MONACO',
+ 'Lens': 'RC LENS',
+ 'Nantes': 'FC NANTES',
+ 'Lyon': 'OLYMPIQUE LYONNAIS',
+ 'Rennes': 'STADE RENNAIS FC',
+ 'Toulouse': 'TOULOUSE FC',
+ 'Clermont Foot': 'CLERMONT FOOT 63',
+ 'Reims': 'STADE DE REIMS',
+ 'Estac Troyes': 'ESTAC TROYES',
+ 'Lorient': 'FC LORIENT',
+ 'Lille': 'LOSC LILLE'}
 
 
 # Chemin d'accès aux données en format json
@@ -60,6 +63,9 @@ def clean_journees():
                    "equipe_vis": journee["teams"]['away']['name'],
                    "buts_dom": journee["goals"]["home"],
                    "buts_vis": journee["goals"]["away"]}} for pk, journee in enumerate(journee_22["response"])]
+    for journee in journee_clean :
+        journee["fields"]["equipe_dom"] = conv_clubs.get(journee["fields"]["equipe_dom"])
+        journee["fields"]["equipe_vis"] = conv_clubs.get(journee["fields"]["equipe_vis"])
     l1_22_clean = open(json_path + "clean/journees_ligue1_2022_clean.json", "w")
     json.dump(journee_clean, l1_22_clean, indent= 6)
     l1_22_clean.close()

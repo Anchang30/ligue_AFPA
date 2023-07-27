@@ -5,8 +5,8 @@
             "fields": {
                   "date_match": "2022-08-06",
                   "num_journee": "1",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -17,8 +17,8 @@
             "fields": {
                   "date_match": "2022-08-07",
                   "num_journee": "1",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -29,8 +29,8 @@
             "fields": {
                   "date_match": "2022-08-06",
                   "num_journee": "1",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 0,
                   "buts_vis": 5
             }
@@ -41,8 +41,8 @@
             "fields": {
                   "date_match": "2022-08-07",
                   "num_journee": "1",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -53,8 +53,8 @@
             "fields": {
                   "date_match": "2022-08-05",
                   "num_journee": "1",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -65,8 +65,8 @@
             "fields": {
                   "date_match": "2022-08-07",
                   "num_journee": "1",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 4,
                   "buts_vis": 1
             }
@@ -77,8 +77,8 @@
             "fields": {
                   "date_match": "2022-08-07",
                   "num_journee": "1",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -89,8 +89,8 @@
             "fields": {
                   "date_match": "2022-08-07",
                   "num_journee": "1",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 3,
                   "buts_vis": 2
             }
@@ -101,8 +101,8 @@
             "fields": {
                   "date_match": "2022-08-07",
                   "num_journee": "1",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 4,
                   "buts_vis": 1
             }
@@ -113,8 +113,8 @@
             "fields": {
                   "date_match": "2022-08-07",
                   "num_journee": "1",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 3,
                   "buts_vis": 2
             }
@@ -125,8 +125,8 @@
             "fields": {
                   "date_match": "2022-08-14",
                   "num_journee": "2",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -137,8 +137,8 @@
             "fields": {
                   "date_match": "2022-08-14",
                   "num_journee": "2",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 2,
                   "buts_vis": 2
             }
@@ -149,8 +149,8 @@
             "fields": {
                   "date_match": "2022-08-13",
                   "num_journee": "2",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -161,8 +161,8 @@
             "fields": {
                   "date_match": "2022-09-07",
                   "num_journee": "2",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -173,8 +173,8 @@
             "fields": {
                   "date_match": "2022-08-12",
                   "num_journee": "2",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -185,8 +185,8 @@
             "fields": {
                   "date_match": "2022-08-14",
                   "num_journee": "2",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -197,8 +197,8 @@
             "fields": {
                   "date_match": "2022-08-13",
                   "num_journee": "2",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 5,
                   "buts_vis": 2
             }
@@ -209,8 +209,8 @@
             "fields": {
                   "date_match": "2022-08-14",
                   "num_journee": "2",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -221,8 +221,8 @@
             "fields": {
                   "date_match": "2022-08-14",
                   "num_journee": "2",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 2,
                   "buts_vis": 4
             }
@@ -233,8 +233,8 @@
             "fields": {
                   "date_match": "2022-08-14",
                   "num_journee": "2",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 0,
                   "buts_vis": 3
             }
@@ -245,8 +245,8 @@
             "fields": {
                   "date_match": "2022-08-20",
                   "num_journee": "3",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 1,
                   "buts_vis": 4
             }
@@ -257,8 +257,8 @@
             "fields": {
                   "date_match": "2022-08-21",
                   "num_journee": "3",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -269,8 +269,8 @@
             "fields": {
                   "date_match": "2022-08-21",
                   "num_journee": "3",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -281,8 +281,8 @@
             "fields": {
                   "date_match": "2022-08-21",
                   "num_journee": "3",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 1,
                   "buts_vis": 7
             }
@@ -293,8 +293,8 @@
             "fields": {
                   "date_match": "2022-08-21",
                   "num_journee": "3",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -305,8 +305,8 @@
             "fields": {
                   "date_match": "2022-08-19",
                   "num_journee": "3",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 4,
                   "buts_vis": 1
             }
@@ -317,8 +317,8 @@
             "fields": {
                   "date_match": "2022-08-20",
                   "num_journee": "3",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -329,8 +329,8 @@
             "fields": {
                   "date_match": "2022-08-21",
                   "num_journee": "3",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -341,8 +341,8 @@
             "fields": {
                   "date_match": "2022-08-21",
                   "num_journee": "3",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -353,8 +353,8 @@
             "fields": {
                   "date_match": "2022-08-21",
                   "num_journee": "3",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 2,
                   "buts_vis": 2
             }
@@ -365,8 +365,8 @@
             "fields": {
                   "date_match": "2022-08-26",
                   "num_journee": "4",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -377,8 +377,8 @@
             "fields": {
                   "date_match": "2022-08-27",
                   "num_journee": "4",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -389,8 +389,8 @@
             "fields": {
                   "date_match": "2022-08-28",
                   "num_journee": "4",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -401,8 +401,8 @@
             "fields": {
                   "date_match": "2022-08-28",
                   "num_journee": "4",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -413,8 +413,8 @@
             "fields": {
                   "date_match": "2022-08-28",
                   "num_journee": "4",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 0,
                   "buts_vis": 3
             }
@@ -425,8 +425,8 @@
             "fields": {
                   "date_match": "2022-08-28",
                   "num_journee": "4",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -437,8 +437,8 @@
             "fields": {
                   "date_match": "2022-08-27",
                   "num_journee": "4",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -449,8 +449,8 @@
             "fields": {
                   "date_match": "2022-08-28",
                   "num_journee": "4",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 0,
                   "buts_vis": 7
             }
@@ -461,8 +461,8 @@
             "fields": {
                   "date_match": "2022-08-28",
                   "num_journee": "4",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -473,8 +473,8 @@
             "fields": {
                   "date_match": "2022-08-28",
                   "num_journee": "4",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -485,8 +485,8 @@
             "fields": {
                   "date_match": "2022-08-31",
                   "num_journee": "5",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 2,
                   "buts_vis": 4
             }
@@ -497,8 +497,8 @@
             "fields": {
                   "date_match": "2022-08-31",
                   "num_journee": "5",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 2,
                   "buts_vis": 4
             }
@@ -509,8 +509,8 @@
             "fields": {
                   "date_match": "2022-08-31",
                   "num_journee": "5",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -521,8 +521,8 @@
             "fields": {
                   "date_match": "2022-08-31",
                   "num_journee": "5",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 2,
                   "buts_vis": 0
             }
@@ -533,8 +533,8 @@
             "fields": {
                   "date_match": "2022-08-31",
                   "num_journee": "5",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -545,8 +545,8 @@
             "fields": {
                   "date_match": "2022-08-31",
                   "num_journee": "5",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -557,8 +557,8 @@
             "fields": {
                   "date_match": "2022-08-31",
                   "num_journee": "5",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 5,
                   "buts_vis": 2
             }
@@ -569,8 +569,8 @@
             "fields": {
                   "date_match": "2022-08-31",
                   "num_journee": "5",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -581,8 +581,8 @@
             "fields": {
                   "date_match": "2022-08-31",
                   "num_journee": "5",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -593,8 +593,8 @@
             "fields": {
                   "date_match": "2022-08-31",
                   "num_journee": "5",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 0,
                   "buts_vis": 3
             }
@@ -605,8 +605,8 @@
             "fields": {
                   "date_match": "2022-09-04",
                   "num_journee": "6",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -617,8 +617,8 @@
             "fields": {
                   "date_match": "2022-09-03",
                   "num_journee": "6",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -629,8 +629,8 @@
             "fields": {
                   "date_match": "2022-09-04",
                   "num_journee": "6",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 2,
                   "buts_vis": 0
             }
@@ -641,8 +641,8 @@
             "fields": {
                   "date_match": "2022-09-03",
                   "num_journee": "6",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 0,
                   "buts_vis": 3
             }
@@ -653,8 +653,8 @@
             "fields": {
                   "date_match": "2022-09-04",
                   "num_journee": "6",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -665,8 +665,8 @@
             "fields": {
                   "date_match": "2022-09-04",
                   "num_journee": "6",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -677,8 +677,8 @@
             "fields": {
                   "date_match": "2022-09-03",
                   "num_journee": "6",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 5,
                   "buts_vis": 0
             }
@@ -689,8 +689,8 @@
             "fields": {
                   "date_match": "2022-09-04",
                   "num_journee": "6",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -701,8 +701,8 @@
             "fields": {
                   "date_match": "2022-09-04",
                   "num_journee": "6",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -713,8 +713,8 @@
             "fields": {
                   "date_match": "2022-09-04",
                   "num_journee": "6",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -725,8 +725,8 @@
             "fields": {
                   "date_match": "2022-09-11",
                   "num_journee": "7",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -737,8 +737,8 @@
             "fields": {
                   "date_match": "2022-09-11",
                   "num_journee": "7",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -749,8 +749,8 @@
             "fields": {
                   "date_match": "2022-09-11",
                   "num_journee": "7",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -761,8 +761,8 @@
             "fields": {
                   "date_match": "2022-09-11",
                   "num_journee": "7",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 3,
                   "buts_vis": 2
             }
@@ -773,8 +773,8 @@
             "fields": {
                   "date_match": "2022-09-10",
                   "num_journee": "7",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -785,8 +785,8 @@
             "fields": {
                   "date_match": "2022-09-10",
                   "num_journee": "7",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -797,8 +797,8 @@
             "fields": {
                   "date_match": "2022-09-09",
                   "num_journee": "7",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -809,8 +809,8 @@
             "fields": {
                   "date_match": "2022-09-11",
                   "num_journee": "7",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -821,8 +821,8 @@
             "fields": {
                   "date_match": "2022-09-11",
                   "num_journee": "7",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 5,
                   "buts_vis": 0
             }
@@ -833,8 +833,8 @@
             "fields": {
                   "date_match": "2022-09-11",
                   "num_journee": "7",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -845,8 +845,8 @@
             "fields": {
                   "date_match": "2022-09-16",
                   "num_journee": "8",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -857,8 +857,8 @@
             "fields": {
                   "date_match": "2022-09-18",
                   "num_journee": "8",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -869,8 +869,8 @@
             "fields": {
                   "date_match": "2022-09-18",
                   "num_journee": "8",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -881,8 +881,8 @@
             "fields": {
                   "date_match": "2022-09-17",
                   "num_journee": "8",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -893,8 +893,8 @@
             "fields": {
                   "date_match": "2022-09-17",
                   "num_journee": "8",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -905,8 +905,8 @@
             "fields": {
                   "date_match": "2022-09-18",
                   "num_journee": "8",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -917,8 +917,8 @@
             "fields": {
                   "date_match": "2022-09-18",
                   "num_journee": "8",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -929,8 +929,8 @@
             "fields": {
                   "date_match": "2022-09-18",
                   "num_journee": "8",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -941,8 +941,8 @@
             "fields": {
                   "date_match": "2022-09-18",
                   "num_journee": "8",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -953,8 +953,8 @@
             "fields": {
                   "date_match": "2022-09-18",
                   "num_journee": "8",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 0,
                   "buts_vis": 3
             }
@@ -965,8 +965,8 @@
             "fields": {
                   "date_match": "2022-10-02",
                   "num_journee": "9",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -977,8 +977,8 @@
             "fields": {
                   "date_match": "2022-10-02",
                   "num_journee": "9",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -989,8 +989,8 @@
             "fields": {
                   "date_match": "2022-10-02",
                   "num_journee": "9",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 4,
                   "buts_vis": 1
             }
@@ -1001,8 +1001,8 @@
             "fields": {
                   "date_match": "2022-09-30",
                   "num_journee": "9",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 0,
                   "buts_vis": 3
             }
@@ -1013,8 +1013,8 @@
             "fields": {
                   "date_match": "2022-10-02",
                   "num_journee": "9",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -1025,8 +1025,8 @@
             "fields": {
                   "date_match": "2022-10-01",
                   "num_journee": "9",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -1037,8 +1037,8 @@
             "fields": {
                   "date_match": "2022-10-02",
                   "num_journee": "9",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -1049,8 +1049,8 @@
             "fields": {
                   "date_match": "2022-10-01",
                   "num_journee": "9",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -1061,8 +1061,8 @@
             "fields": {
                   "date_match": "2022-10-02",
                   "num_journee": "9",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 4,
                   "buts_vis": 2
             }
@@ -1073,8 +1073,8 @@
             "fields": {
                   "date_match": "2022-10-02",
                   "num_journee": "9",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 2,
                   "buts_vis": 2
             }
@@ -1085,8 +1085,8 @@
             "fields": {
                   "date_match": "2022-10-09",
                   "num_journee": "10",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 2,
                   "buts_vis": 3
             }
@@ -1097,8 +1097,8 @@
             "fields": {
                   "date_match": "2022-10-09",
                   "num_journee": "10",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -1109,8 +1109,8 @@
             "fields": {
                   "date_match": "2022-10-09",
                   "num_journee": "10",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -1121,8 +1121,8 @@
             "fields": {
                   "date_match": "2022-10-09",
                   "num_journee": "10",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -1133,8 +1133,8 @@
             "fields": {
                   "date_match": "2022-10-09",
                   "num_journee": "10",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 3,
                   "buts_vis": 2
             }
@@ -1145,8 +1145,8 @@
             "fields": {
                   "date_match": "2022-10-07",
                   "num_journee": "10",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -1157,8 +1157,8 @@
             "fields": {
                   "date_match": "2022-10-08",
                   "num_journee": "10",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -1169,8 +1169,8 @@
             "fields": {
                   "date_match": "2022-10-09",
                   "num_journee": "10",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -1181,8 +1181,8 @@
             "fields": {
                   "date_match": "2022-10-09",
                   "num_journee": "10",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 3,
                   "buts_vis": 0
             }
@@ -1193,8 +1193,8 @@
             "fields": {
                   "date_match": "2022-10-08",
                   "num_journee": "10",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -1205,8 +1205,8 @@
             "fields": {
                   "date_match": "2022-10-16",
                   "num_journee": "11",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -1217,8 +1217,8 @@
             "fields": {
                   "date_match": "2022-10-16",
                   "num_journee": "11",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -1229,8 +1229,8 @@
             "fields": {
                   "date_match": "2022-10-15",
                   "num_journee": "11",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -1241,8 +1241,8 @@
             "fields": {
                   "date_match": "2022-10-16",
                   "num_journee": "11",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 4,
                   "buts_vis": 1
             }
@@ -1253,8 +1253,8 @@
             "fields": {
                   "date_match": "2022-10-16",
                   "num_journee": "11",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -1265,8 +1265,8 @@
             "fields": {
                   "date_match": "2022-10-15",
                   "num_journee": "11",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -1277,8 +1277,8 @@
             "fields": {
                   "date_match": "2022-10-14",
                   "num_journee": "11",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 0,
                   "buts_vis": 3
             }
@@ -1289,8 +1289,8 @@
             "fields": {
                   "date_match": "2022-10-16",
                   "num_journee": "11",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 3,
                   "buts_vis": 2
             }
@@ -1301,8 +1301,8 @@
             "fields": {
                   "date_match": "2022-10-16",
                   "num_journee": "11",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 3,
                   "buts_vis": 2
             }
@@ -1313,8 +1313,8 @@
             "fields": {
                   "date_match": "2022-10-16",
                   "num_journee": "11",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -1325,8 +1325,8 @@
             "fields": {
                   "date_match": "2022-10-21",
                   "num_journee": "12",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 0,
                   "buts_vis": 3
             }
@@ -1337,8 +1337,8 @@
             "fields": {
                   "date_match": "2022-10-23",
                   "num_journee": "12",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -1349,8 +1349,8 @@
             "fields": {
                   "date_match": "2022-10-23",
                   "num_journee": "12",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -1361,8 +1361,8 @@
             "fields": {
                   "date_match": "2022-10-23",
                   "num_journee": "12",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 4,
                   "buts_vis": 3
             }
@@ -1373,8 +1373,8 @@
             "fields": {
                   "date_match": "2022-10-22",
                   "num_journee": "12",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -1385,8 +1385,8 @@
             "fields": {
                   "date_match": "2022-10-23",
                   "num_journee": "12",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -1397,8 +1397,8 @@
             "fields": {
                   "date_match": "2022-10-22",
                   "num_journee": "12",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -1409,8 +1409,8 @@
             "fields": {
                   "date_match": "2022-10-23",
                   "num_journee": "12",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -1421,8 +1421,8 @@
             "fields": {
                   "date_match": "2022-10-23",
                   "num_journee": "12",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 2,
                   "buts_vis": 2
             }
@@ -1433,8 +1433,8 @@
             "fields": {
                   "date_match": "2022-10-23",
                   "num_journee": "12",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 2,
                   "buts_vis": 2
             }
@@ -1445,8 +1445,8 @@
             "fields": {
                   "date_match": "2022-10-30",
                   "num_journee": "13",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -1457,8 +1457,8 @@
             "fields": {
                   "date_match": "2022-10-30",
                   "num_journee": "13",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 2,
                   "buts_vis": 0
             }
@@ -1469,8 +1469,8 @@
             "fields": {
                   "date_match": "2022-10-30",
                   "num_journee": "13",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -1481,8 +1481,8 @@
             "fields": {
                   "date_match": "2022-10-30",
                   "num_journee": "13",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -1493,8 +1493,8 @@
             "fields": {
                   "date_match": "2022-10-30",
                   "num_journee": "13",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -1505,8 +1505,8 @@
             "fields": {
                   "date_match": "2022-10-29",
                   "num_journee": "13",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 4,
                   "buts_vis": 3
             }
@@ -1517,8 +1517,8 @@
             "fields": {
                   "date_match": "2022-10-28",
                   "num_journee": "13",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 3,
                   "buts_vis": 0
             }
@@ -1529,8 +1529,8 @@
             "fields": {
                   "date_match": "2022-10-29",
                   "num_journee": "13",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 2,
                   "buts_vis": 2
             }
@@ -1541,8 +1541,8 @@
             "fields": {
                   "date_match": "2022-10-30",
                   "num_journee": "13",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -1553,8 +1553,8 @@
             "fields": {
                   "date_match": "2022-10-30",
                   "num_journee": "13",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 3,
                   "buts_vis": 0
             }
@@ -1565,8 +1565,8 @@
             "fields": {
                   "date_match": "2022-11-05",
                   "num_journee": "14",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 4,
                   "buts_vis": 2
             }
@@ -1577,8 +1577,8 @@
             "fields": {
                   "date_match": "2022-11-05",
                   "num_journee": "14",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -1589,8 +1589,8 @@
             "fields": {
                   "date_match": "2022-11-06",
                   "num_journee": "14",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -1601,8 +1601,8 @@
             "fields": {
                   "date_match": "2022-11-06",
                   "num_journee": "14",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -1613,8 +1613,8 @@
             "fields": {
                   "date_match": "2022-11-06",
                   "num_journee": "14",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -1625,8 +1625,8 @@
             "fields": {
                   "date_match": "2022-11-06",
                   "num_journee": "14",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -1637,8 +1637,8 @@
             "fields": {
                   "date_match": "2022-11-06",
                   "num_journee": "14",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -1649,8 +1649,8 @@
             "fields": {
                   "date_match": "2022-11-06",
                   "num_journee": "14",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -1661,8 +1661,8 @@
             "fields": {
                   "date_match": "2022-11-06",
                   "num_journee": "14",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -1673,8 +1673,8 @@
             "fields": {
                   "date_match": "2022-11-04",
                   "num_journee": "14",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -1685,8 +1685,8 @@
             "fields": {
                   "date_match": "2022-11-13",
                   "num_journee": "15",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 2,
                   "buts_vis": 3
             }
@@ -1697,8 +1697,8 @@
             "fields": {
                   "date_match": "2022-11-13",
                   "num_journee": "15",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 2,
                   "buts_vis": 2
             }
@@ -1709,8 +1709,8 @@
             "fields": {
                   "date_match": "2022-11-13",
                   "num_journee": "15",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -1721,8 +1721,8 @@
             "fields": {
                   "date_match": "2022-11-13",
                   "num_journee": "15",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -1733,8 +1733,8 @@
             "fields": {
                   "date_match": "2022-11-11",
                   "num_journee": "15",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -1745,8 +1745,8 @@
             "fields": {
                   "date_match": "2022-11-13",
                   "num_journee": "15",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 5,
                   "buts_vis": 0
             }
@@ -1757,8 +1757,8 @@
             "fields": {
                   "date_match": "2022-11-12",
                   "num_journee": "15",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -1769,8 +1769,8 @@
             "fields": {
                   "date_match": "2022-11-13",
                   "num_journee": "15",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -1781,8 +1781,8 @@
             "fields": {
                   "date_match": "2022-11-13",
                   "num_journee": "15",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -1793,8 +1793,8 @@
             "fields": {
                   "date_match": "2022-11-12",
                   "num_journee": "15",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -1805,8 +1805,8 @@
             "fields": {
                   "date_match": "2022-12-28",
                   "num_journee": "16",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -1817,8 +1817,8 @@
             "fields": {
                   "date_match": "2022-12-28",
                   "num_journee": "16",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 2,
                   "buts_vis": 3
             }
@@ -1829,8 +1829,8 @@
             "fields": {
                   "date_match": "2022-12-28",
                   "num_journee": "16",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -1841,8 +1841,8 @@
             "fields": {
                   "date_match": "2022-12-29",
                   "num_journee": "16",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -1853,8 +1853,8 @@
             "fields": {
                   "date_match": "2022-12-29",
                   "num_journee": "16",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -1865,8 +1865,8 @@
             "fields": {
                   "date_match": "2022-12-29",
                   "num_journee": "16",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 6,
                   "buts_vis": 1
             }
@@ -1877,8 +1877,8 @@
             "fields": {
                   "date_match": "2022-12-28",
                   "num_journee": "16",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -1889,8 +1889,8 @@
             "fields": {
                   "date_match": "2022-12-28",
                   "num_journee": "16",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 2,
                   "buts_vis": 4
             }
@@ -1901,8 +1901,8 @@
             "fields": {
                   "date_match": "2022-12-29",
                   "num_journee": "16",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -1913,8 +1913,8 @@
             "fields": {
                   "date_match": "2022-12-28",
                   "num_journee": "16",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -1925,8 +1925,8 @@
             "fields": {
                   "date_match": "2023-01-01",
                   "num_journee": "17",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -1937,8 +1937,8 @@
             "fields": {
                   "date_match": "2023-01-01",
                   "num_journee": "17",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -1949,8 +1949,8 @@
             "fields": {
                   "date_match": "2023-01-02",
                   "num_journee": "17",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -1961,8 +1961,8 @@
             "fields": {
                   "date_match": "2023-01-01",
                   "num_journee": "17",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -1973,8 +1973,8 @@
             "fields": {
                   "date_match": "2023-01-01",
                   "num_journee": "17",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -1985,8 +1985,8 @@
             "fields": {
                   "date_match": "2023-01-02",
                   "num_journee": "17",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -1997,8 +1997,8 @@
             "fields": {
                   "date_match": "2023-01-01",
                   "num_journee": "17",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 2,
                   "buts_vis": 0
             }
@@ -2009,8 +2009,8 @@
             "fields": {
                   "date_match": "2023-01-01",
                   "num_journee": "17",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -2021,8 +2021,8 @@
             "fields": {
                   "date_match": "2023-01-02",
                   "num_journee": "17",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -2033,8 +2033,8 @@
             "fields": {
                   "date_match": "2023-01-02",
                   "num_journee": "17",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 2,
                   "buts_vis": 3
             }
@@ -2045,8 +2045,8 @@
             "fields": {
                   "date_match": "2023-01-11",
                   "num_journee": "18",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -2057,8 +2057,8 @@
             "fields": {
                   "date_match": "2023-01-11",
                   "num_journee": "18",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 0,
                   "buts_vis": 5
             }
@@ -2069,8 +2069,8 @@
             "fields": {
                   "date_match": "2023-01-11",
                   "num_journee": "18",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -2081,8 +2081,8 @@
             "fields": {
                   "date_match": "2023-01-11",
                   "num_journee": "18",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 2,
                   "buts_vis": 2
             }
@@ -2093,8 +2093,8 @@
             "fields": {
                   "date_match": "2023-01-11",
                   "num_journee": "18",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -2105,8 +2105,8 @@
             "fields": {
                   "date_match": "2023-01-11",
                   "num_journee": "18",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 6,
                   "buts_vis": 1
             }
@@ -2117,8 +2117,8 @@
             "fields": {
                   "date_match": "2023-01-11",
                   "num_journee": "18",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 2,
                   "buts_vis": 0
             }
@@ -2129,8 +2129,8 @@
             "fields": {
                   "date_match": "2023-01-11",
                   "num_journee": "18",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 2,
                   "buts_vis": 2
             }
@@ -2141,8 +2141,8 @@
             "fields": {
                   "date_match": "2023-01-11",
                   "num_journee": "18",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -2153,8 +2153,8 @@
             "fields": {
                   "date_match": "2023-01-11",
                   "num_journee": "18",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -2165,8 +2165,8 @@
             "fields": {
                   "date_match": "2023-01-15",
                   "num_journee": "19",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 7,
                   "buts_vis": 1
             }
@@ -2177,8 +2177,8 @@
             "fields": {
                   "date_match": "2023-01-15",
                   "num_journee": "19",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -2189,8 +2189,8 @@
             "fields": {
                   "date_match": "2023-01-15",
                   "num_journee": "19",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 5,
                   "buts_vis": 1
             }
@@ -2201,8 +2201,8 @@
             "fields": {
                   "date_match": "2023-01-15",
                   "num_journee": "19",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 0,
                   "buts_vis": 3
             }
@@ -2213,8 +2213,8 @@
             "fields": {
                   "date_match": "2023-01-14",
                   "num_journee": "19",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -2225,8 +2225,8 @@
             "fields": {
                   "date_match": "2023-01-14",
                   "num_journee": "19",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -2237,8 +2237,8 @@
             "fields": {
                   "date_match": "2023-01-14",
                   "num_journee": "19",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -2249,8 +2249,8 @@
             "fields": {
                   "date_match": "2023-01-15",
                   "num_journee": "19",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -2261,8 +2261,8 @@
             "fields": {
                   "date_match": "2023-01-15",
                   "num_journee": "19",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -2273,8 +2273,8 @@
             "fields": {
                   "date_match": "2023-01-15",
                   "num_journee": "19",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -2285,8 +2285,8 @@
             "fields": {
                   "date_match": "2023-01-29",
                   "num_journee": "20",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -2297,8 +2297,8 @@
             "fields": {
                   "date_match": "2023-01-29",
                   "num_journee": "20",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -2309,8 +2309,8 @@
             "fields": {
                   "date_match": "2023-01-29",
                   "num_journee": "20",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -2321,8 +2321,8 @@
             "fields": {
                   "date_match": "2023-01-27",
                   "num_journee": "20",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -2333,8 +2333,8 @@
             "fields": {
                   "date_match": "2023-01-29",
                   "num_journee": "20",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -2345,8 +2345,8 @@
             "fields": {
                   "date_match": "2023-01-28",
                   "num_journee": "20",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -2357,8 +2357,8 @@
             "fields": {
                   "date_match": "2023-01-29",
                   "num_journee": "20",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -2369,8 +2369,8 @@
             "fields": {
                   "date_match": "2023-01-29",
                   "num_journee": "20",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -2381,8 +2381,8 @@
             "fields": {
                   "date_match": "2023-01-29",
                   "num_journee": "20",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 4,
                   "buts_vis": 0
             }
@@ -2393,8 +2393,8 @@
             "fields": {
                   "date_match": "2023-01-28",
                   "num_journee": "20",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -2405,8 +2405,8 @@
             "fields": {
                   "date_match": "2023-02-01",
                   "num_journee": "21",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -2417,8 +2417,8 @@
             "fields": {
                   "date_match": "2023-02-01",
                   "num_journee": "21",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -2429,8 +2429,8 @@
             "fields": {
                   "date_match": "2023-02-01",
                   "num_journee": "21",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 4,
                   "buts_vis": 2
             }
@@ -2441,8 +2441,8 @@
             "fields": {
                   "date_match": "2023-02-01",
                   "num_journee": "21",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 3,
                   "buts_vis": 2
             }
@@ -2453,8 +2453,8 @@
             "fields": {
                   "date_match": "2023-02-01",
                   "num_journee": "21",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -2465,8 +2465,8 @@
             "fields": {
                   "date_match": "2023-02-01",
                   "num_journee": "21",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -2477,8 +2477,8 @@
             "fields": {
                   "date_match": "2023-02-01",
                   "num_journee": "21",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -2489,8 +2489,8 @@
             "fields": {
                   "date_match": "2023-02-01",
                   "num_journee": "21",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -2501,8 +2501,8 @@
             "fields": {
                   "date_match": "2023-02-01",
                   "num_journee": "21",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 3,
                   "buts_vis": 0
             }
@@ -2513,8 +2513,8 @@
             "fields": {
                   "date_match": "2023-02-01",
                   "num_journee": "21",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 4,
                   "buts_vis": 1
             }
@@ -2525,8 +2525,8 @@
             "fields": {
                   "date_match": "2023-02-05",
                   "num_journee": "22",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -2537,8 +2537,8 @@
             "fields": {
                   "date_match": "2023-02-05",
                   "num_journee": "22",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -2549,8 +2549,8 @@
             "fields": {
                   "date_match": "2023-02-05",
                   "num_journee": "22",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -2561,8 +2561,8 @@
             "fields": {
                   "date_match": "2023-02-05",
                   "num_journee": "22",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -2573,8 +2573,8 @@
             "fields": {
                   "date_match": "2023-02-05",
                   "num_journee": "22",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -2585,8 +2585,8 @@
             "fields": {
                   "date_match": "2023-02-04",
                   "num_journee": "22",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -2597,8 +2597,8 @@
             "fields": {
                   "date_match": "2023-02-05",
                   "num_journee": "22",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 2,
                   "buts_vis": 0
             }
@@ -2609,8 +2609,8 @@
             "fields": {
                   "date_match": "2023-02-05",
                   "num_journee": "22",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -2621,8 +2621,8 @@
             "fields": {
                   "date_match": "2023-02-04",
                   "num_journee": "22",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -2633,8 +2633,8 @@
             "fields": {
                   "date_match": "2023-02-04",
                   "num_journee": "22",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -2645,8 +2645,8 @@
             "fields": {
                   "date_match": "2023-02-11",
                   "num_journee": "23",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -2657,8 +2657,8 @@
             "fields": {
                   "date_match": "2023-02-12",
                   "num_journee": "23",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -2669,8 +2669,8 @@
             "fields": {
                   "date_match": "2023-02-11",
                   "num_journee": "23",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -2681,8 +2681,8 @@
             "fields": {
                   "date_match": "2023-02-12",
                   "num_journee": "23",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -2693,8 +2693,8 @@
             "fields": {
                   "date_match": "2023-02-12",
                   "num_journee": "23",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 2,
                   "buts_vis": 0
             }
@@ -2705,8 +2705,8 @@
             "fields": {
                   "date_match": "2023-02-12",
                   "num_journee": "23",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 3,
                   "buts_vis": 0
             }
@@ -2717,8 +2717,8 @@
             "fields": {
                   "date_match": "2023-02-10",
                   "num_journee": "23",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 3,
                   "buts_vis": 0
             }
@@ -2729,8 +2729,8 @@
             "fields": {
                   "date_match": "2023-02-12",
                   "num_journee": "23",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -2741,8 +2741,8 @@
             "fields": {
                   "date_match": "2023-02-12",
                   "num_journee": "23",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 4,
                   "buts_vis": 0
             }
@@ -2753,8 +2753,8 @@
             "fields": {
                   "date_match": "2023-02-12",
                   "num_journee": "23",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -2765,8 +2765,8 @@
             "fields": {
                   "date_match": "2023-02-17",
                   "num_journee": "24",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -2777,8 +2777,8 @@
             "fields": {
                   "date_match": "2023-02-19",
                   "num_journee": "24",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 3,
                   "buts_vis": 0
             }
@@ -2789,8 +2789,8 @@
             "fields": {
                   "date_match": "2023-02-18",
                   "num_journee": "24",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -2801,8 +2801,8 @@
             "fields": {
                   "date_match": "2023-02-19",
                   "num_journee": "24",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 4,
                   "buts_vis": 3
             }
@@ -2813,8 +2813,8 @@
             "fields": {
                   "date_match": "2023-02-19",
                   "num_journee": "24",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -2825,8 +2825,8 @@
             "fields": {
                   "date_match": "2023-02-18",
                   "num_journee": "24",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -2837,8 +2837,8 @@
             "fields": {
                   "date_match": "2023-02-19",
                   "num_journee": "24",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -2849,8 +2849,8 @@
             "fields": {
                   "date_match": "2023-02-19",
                   "num_journee": "24",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 2,
                   "buts_vis": 0
             }
@@ -2861,8 +2861,8 @@
             "fields": {
                   "date_match": "2023-02-19",
                   "num_journee": "24",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 2,
                   "buts_vis": 3
             }
@@ -2873,8 +2873,8 @@
             "fields": {
                   "date_match": "2023-02-19",
                   "num_journee": "24",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -2885,8 +2885,8 @@
             "fields": {
                   "date_match": "2023-02-26",
                   "num_journee": "25",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -2897,8 +2897,8 @@
             "fields": {
                   "date_match": "2023-02-26",
                   "num_journee": "25",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 0,
                   "buts_vis": 3
             }
@@ -2909,8 +2909,8 @@
             "fields": {
                   "date_match": "2023-02-25",
                   "num_journee": "25",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -2921,8 +2921,8 @@
             "fields": {
                   "date_match": "2023-02-26",
                   "num_journee": "25",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -2933,8 +2933,8 @@
             "fields": {
                   "date_match": "2023-02-26",
                   "num_journee": "25",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -2945,8 +2945,8 @@
             "fields": {
                   "date_match": "2023-02-26",
                   "num_journee": "25",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -2957,8 +2957,8 @@
             "fields": {
                   "date_match": "2023-02-24",
                   "num_journee": "25",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -2969,8 +2969,8 @@
             "fields": {
                   "date_match": "2023-02-25",
                   "num_journee": "25",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -2981,8 +2981,8 @@
             "fields": {
                   "date_match": "2023-02-26",
                   "num_journee": "25",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 0,
                   "buts_vis": 3
             }
@@ -2993,8 +2993,8 @@
             "fields": {
                   "date_match": "2023-02-26",
                   "num_journee": "25",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 3,
                   "buts_vis": 0
             }
@@ -3005,8 +3005,8 @@
             "fields": {
                   "date_match": "2023-03-05",
                   "num_journee": "26",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 5,
                   "buts_vis": 0
             }
@@ -3017,8 +3017,8 @@
             "fields": {
                   "date_match": "2023-03-03",
                   "num_journee": "26",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -3029,8 +3029,8 @@
             "fields": {
                   "date_match": "2023-03-05",
                   "num_journee": "26",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -3041,8 +3041,8 @@
             "fields": {
                   "date_match": "2023-03-04",
                   "num_journee": "26",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 4,
                   "buts_vis": 2
             }
@@ -3053,8 +3053,8 @@
             "fields": {
                   "date_match": "2023-03-04",
                   "num_journee": "26",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -3065,8 +3065,8 @@
             "fields": {
                   "date_match": "2023-03-05",
                   "num_journee": "26",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -3077,8 +3077,8 @@
             "fields": {
                   "date_match": "2023-03-05",
                   "num_journee": "26",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -3089,8 +3089,8 @@
             "fields": {
                   "date_match": "2023-03-05",
                   "num_journee": "26",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -3101,8 +3101,8 @@
             "fields": {
                   "date_match": "2023-03-05",
                   "num_journee": "26",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -3113,8 +3113,8 @@
             "fields": {
                   "date_match": "2023-03-05",
                   "num_journee": "26",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 2,
                   "buts_vis": 2
             }
@@ -3125,8 +3125,8 @@
             "fields": {
                   "date_match": "2023-03-12",
                   "num_journee": "27",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -3137,8 +3137,8 @@
             "fields": {
                   "date_match": "2023-03-11",
                   "num_journee": "27",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -3149,8 +3149,8 @@
             "fields": {
                   "date_match": "2023-03-12",
                   "num_journee": "27",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -3161,8 +3161,8 @@
             "fields": {
                   "date_match": "2023-03-12",
                   "num_journee": "27",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -3173,8 +3173,8 @@
             "fields": {
                   "date_match": "2023-03-12",
                   "num_journee": "27",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 0,
                   "buts_vis": 4
             }
@@ -3185,8 +3185,8 @@
             "fields": {
                   "date_match": "2023-03-12",
                   "num_journee": "27",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 2,
                   "buts_vis": 0
             }
@@ -3197,8 +3197,8 @@
             "fields": {
                   "date_match": "2023-03-12",
                   "num_journee": "27",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 2,
                   "buts_vis": 2
             }
@@ -3209,8 +3209,8 @@
             "fields": {
                   "date_match": "2023-03-10",
                   "num_journee": "27",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 3,
                   "buts_vis": 3
             }
@@ -3221,8 +3221,8 @@
             "fields": {
                   "date_match": "2023-03-12",
                   "num_journee": "27",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 2,
                   "buts_vis": 2
             }
@@ -3233,8 +3233,8 @@
             "fields": {
                   "date_match": "2023-03-11",
                   "num_journee": "27",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -3245,8 +3245,8 @@
             "fields": {
                   "date_match": "2023-03-19",
                   "num_journee": "28",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -3257,8 +3257,8 @@
             "fields": {
                   "date_match": "2023-03-19",
                   "num_journee": "28",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -3269,8 +3269,8 @@
             "fields": {
                   "date_match": "2023-03-19",
                   "num_journee": "28",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -3281,8 +3281,8 @@
             "fields": {
                   "date_match": "2023-03-17",
                   "num_journee": "28",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -3293,8 +3293,8 @@
             "fields": {
                   "date_match": "2023-03-19",
                   "num_journee": "28",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -3305,8 +3305,8 @@
             "fields": {
                   "date_match": "2023-03-18",
                   "num_journee": "28",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 3,
                   "buts_vis": 0
             }
@@ -3317,8 +3317,8 @@
             "fields": {
                   "date_match": "2023-03-19",
                   "num_journee": "28",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 2,
                   "buts_vis": 0
             }
@@ -3329,8 +3329,8 @@
             "fields": {
                   "date_match": "2023-03-19",
                   "num_journee": "28",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -3341,8 +3341,8 @@
             "fields": {
                   "date_match": "2023-03-18",
                   "num_journee": "28",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -3353,8 +3353,8 @@
             "fields": {
                   "date_match": "2023-03-19",
                   "num_journee": "28",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 2,
                   "buts_vis": 2
             }
@@ -3365,8 +3365,8 @@
             "fields": {
                   "date_match": "2023-04-01",
                   "num_journee": "29",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -3377,8 +3377,8 @@
             "fields": {
                   "date_match": "2023-04-02",
                   "num_journee": "29",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 4,
                   "buts_vis": 3
             }
@@ -3389,8 +3389,8 @@
             "fields": {
                   "date_match": "2023-04-02",
                   "num_journee": "29",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -3401,8 +3401,8 @@
             "fields": {
                   "date_match": "2023-04-02",
                   "num_journee": "29",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -3413,8 +3413,8 @@
             "fields": {
                   "date_match": "2023-04-02",
                   "num_journee": "29",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 0,
                   "buts_vis": 3
             }
@@ -3425,8 +3425,8 @@
             "fields": {
                   "date_match": "2023-04-02",
                   "num_journee": "29",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -3437,8 +3437,8 @@
             "fields": {
                   "date_match": "2023-03-31",
                   "num_journee": "29",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -3449,8 +3449,8 @@
             "fields": {
                   "date_match": "2023-04-02",
                   "num_journee": "29",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -3461,8 +3461,8 @@
             "fields": {
                   "date_match": "2023-04-02",
                   "num_journee": "29",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -3473,8 +3473,8 @@
             "fields": {
                   "date_match": "2023-04-01",
                   "num_journee": "29",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -3485,8 +3485,8 @@
             "fields": {
                   "date_match": "2023-04-09",
                   "num_journee": "30",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 0,
                   "buts_vis": 3
             }
@@ -3497,8 +3497,8 @@
             "fields": {
                   "date_match": "2023-04-08",
                   "num_journee": "30",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -3509,8 +3509,8 @@
             "fields": {
                   "date_match": "2023-04-09",
                   "num_journee": "30",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -3521,8 +3521,8 @@
             "fields": {
                   "date_match": "2023-04-09",
                   "num_journee": "30",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 2,
                   "buts_vis": 2
             }
@@ -3533,8 +3533,8 @@
             "fields": {
                   "date_match": "2023-04-09",
                   "num_journee": "30",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -3545,8 +3545,8 @@
             "fields": {
                   "date_match": "2023-04-08",
                   "num_journee": "30",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -3557,8 +3557,8 @@
             "fields": {
                   "date_match": "2023-04-09",
                   "num_journee": "30",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -3569,8 +3569,8 @@
             "fields": {
                   "date_match": "2023-04-07",
                   "num_journee": "30",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -3581,8 +3581,8 @@
             "fields": {
                   "date_match": "2023-04-09",
                   "num_journee": "30",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -3593,8 +3593,8 @@
             "fields": {
                   "date_match": "2023-04-09",
                   "num_journee": "30",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -3605,8 +3605,8 @@
             "fields": {
                   "date_match": "2023-04-16",
                   "num_journee": "31",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -3617,8 +3617,8 @@
             "fields": {
                   "date_match": "2023-04-16",
                   "num_journee": "31",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -3629,8 +3629,8 @@
             "fields": {
                   "date_match": "2023-04-16",
                   "num_journee": "31",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -3641,8 +3641,8 @@
             "fields": {
                   "date_match": "2023-04-16",
                   "num_journee": "31",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -3653,8 +3653,8 @@
             "fields": {
                   "date_match": "2023-04-16",
                   "num_journee": "31",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -3665,8 +3665,8 @@
             "fields": {
                   "date_match": "2023-04-15",
                   "num_journee": "31",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -3677,8 +3677,8 @@
             "fields": {
                   "date_match": "2023-04-16",
                   "num_journee": "31",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -3689,8 +3689,8 @@
             "fields": {
                   "date_match": "2023-04-16",
                   "num_journee": "31",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -3701,8 +3701,8 @@
             "fields": {
                   "date_match": "2023-04-15",
                   "num_journee": "31",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 3,
                   "buts_vis": 0
             }
@@ -3713,8 +3713,8 @@
             "fields": {
                   "date_match": "2023-04-14",
                   "num_journee": "31",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -3725,8 +3725,8 @@
             "fields": {
                   "date_match": "2023-04-23",
                   "num_journee": "32",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -3737,8 +3737,8 @@
             "fields": {
                   "date_match": "2023-04-22",
                   "num_journee": "32",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -3749,8 +3749,8 @@
             "fields": {
                   "date_match": "2023-04-21",
                   "num_journee": "32",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -3761,8 +3761,8 @@
             "fields": {
                   "date_match": "2023-04-23",
                   "num_journee": "32",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -3773,8 +3773,8 @@
             "fields": {
                   "date_match": "2023-04-23",
                   "num_journee": "32",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 2,
                   "buts_vis": 2
             }
@@ -3785,8 +3785,8 @@
             "fields": {
                   "date_match": "2023-04-23",
                   "num_journee": "32",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -3797,8 +3797,8 @@
             "fields": {
                   "date_match": "2023-04-23",
                   "num_journee": "32",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -3809,8 +3809,8 @@
             "fields": {
                   "date_match": "2023-04-23",
                   "num_journee": "32",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -3821,8 +3821,8 @@
             "fields": {
                   "date_match": "2023-04-22",
                   "num_journee": "32",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 3,
                   "buts_vis": 0
             }
@@ -3833,8 +3833,8 @@
             "fields": {
                   "date_match": "2023-04-23",
                   "num_journee": "32",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -3845,8 +3845,8 @@
             "fields": {
                   "date_match": "2023-04-30",
                   "num_journee": "33",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 0,
                   "buts_vis": 4
             }
@@ -3857,8 +3857,8 @@
             "fields": {
                   "date_match": "2023-04-30",
                   "num_journee": "33",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -3869,8 +3869,8 @@
             "fields": {
                   "date_match": "2023-04-29",
                   "num_journee": "33",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 3,
                   "buts_vis": 0
             }
@@ -3881,8 +3881,8 @@
             "fields": {
                   "date_match": "2023-04-30",
                   "num_journee": "33",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -3893,8 +3893,8 @@
             "fields": {
                   "date_match": "2023-04-30",
                   "num_journee": "33",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -3905,8 +3905,8 @@
             "fields": {
                   "date_match": "2023-04-28",
                   "num_journee": "33",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -3917,8 +3917,8 @@
             "fields": {
                   "date_match": "2023-05-03",
                   "num_journee": "33",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 2,
                   "buts_vis": 0
             }
@@ -3929,8 +3929,8 @@
             "fields": {
                   "date_match": "2023-04-30",
                   "num_journee": "33",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 4,
                   "buts_vis": 2
             }
@@ -3941,8 +3941,8 @@
             "fields": {
                   "date_match": "2023-05-02",
                   "num_journee": "33",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -3953,8 +3953,8 @@
             "fields": {
                   "date_match": "2023-04-30",
                   "num_journee": "33",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 0,
                   "buts_vis": 1
             }
@@ -3965,8 +3965,8 @@
             "fields": {
                   "date_match": "2023-05-07",
                   "num_journee": "34",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -3977,8 +3977,8 @@
             "fields": {
                   "date_match": "2023-05-07",
                   "num_journee": "34",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -3989,8 +3989,8 @@
             "fields": {
                   "date_match": "2023-05-07",
                   "num_journee": "34",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -4001,8 +4001,8 @@
             "fields": {
                   "date_match": "2023-05-07",
                   "num_journee": "34",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -4013,8 +4013,8 @@
             "fields": {
                   "date_match": "2023-05-07",
                   "num_journee": "34",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 0,
                   "buts_vis": 2
             }
@@ -4025,8 +4025,8 @@
             "fields": {
                   "date_match": "2023-05-06",
                   "num_journee": "34",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -4037,8 +4037,8 @@
             "fields": {
                   "date_match": "2023-05-07",
                   "num_journee": "34",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 5,
                   "buts_vis": 4
             }
@@ -4049,8 +4049,8 @@
             "fields": {
                   "date_match": "2023-05-06",
                   "num_journee": "34",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -4061,8 +4061,8 @@
             "fields": {
                   "date_match": "2023-05-06",
                   "num_journee": "34",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -4073,8 +4073,8 @@
             "fields": {
                   "date_match": "2023-05-07",
                   "num_journee": "34",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -4085,8 +4085,8 @@
             "fields": {
                   "date_match": "2023-05-14",
                   "num_journee": "35",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -4097,8 +4097,8 @@
             "fields": {
                   "date_match": "2023-05-14",
                   "num_journee": "35",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -4109,8 +4109,8 @@
             "fields": {
                   "date_match": "2023-05-14",
                   "num_journee": "35",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -4121,8 +4121,8 @@
             "fields": {
                   "date_match": "2023-05-14",
                   "num_journee": "35",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -4133,8 +4133,8 @@
             "fields": {
                   "date_match": "2023-05-13",
                   "num_journee": "35",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 5,
                   "buts_vis": 0
             }
@@ -4145,8 +4145,8 @@
             "fields": {
                   "date_match": "2023-05-12",
                   "num_journee": "35",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -4157,8 +4157,8 @@
             "fields": {
                   "date_match": "2023-05-13",
                   "num_journee": "35",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 2,
                   "buts_vis": 0
             }
@@ -4169,8 +4169,8 @@
             "fields": {
                   "date_match": "2023-05-14",
                   "num_journee": "35",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -4181,8 +4181,8 @@
             "fields": {
                   "date_match": "2023-05-14",
                   "num_journee": "35",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 4,
                   "buts_vis": 0
             }
@@ -4193,8 +4193,8 @@
             "fields": {
                   "date_match": "2023-05-14",
                   "num_journee": "35",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -4205,8 +4205,8 @@
             "fields": {
                   "date_match": "2023-05-21",
                   "num_journee": "36",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 0,
                   "buts_vis": 5
             }
@@ -4217,8 +4217,8 @@
             "fields": {
                   "date_match": "2023-05-21",
                   "num_journee": "36",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -4229,8 +4229,8 @@
             "fields": {
                   "date_match": "2023-05-21",
                   "num_journee": "36",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -4241,8 +4241,8 @@
             "fields": {
                   "date_match": "2023-05-20",
                   "num_journee": "36",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 0,
                   "buts_vis": 3
             }
@@ -4253,8 +4253,8 @@
             "fields": {
                   "date_match": "2023-05-20",
                   "num_journee": "36",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -4265,8 +4265,8 @@
             "fields": {
                   "date_match": "2023-05-21",
                   "num_journee": "36",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 0,
                   "buts_vis": 0
             }
@@ -4277,8 +4277,8 @@
             "fields": {
                   "date_match": "2023-05-19",
                   "num_journee": "36",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -4289,8 +4289,8 @@
             "fields": {
                   "date_match": "2023-05-21",
                   "num_journee": "36",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -4301,8 +4301,8 @@
             "fields": {
                   "date_match": "2023-05-21",
                   "num_journee": "36",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 2,
                   "buts_vis": 2
             }
@@ -4313,8 +4313,8 @@
             "fields": {
                   "date_match": "2023-05-21",
                   "num_journee": "36",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -4325,8 +4325,8 @@
             "fields": {
                   "date_match": "2023-05-27",
                   "num_journee": "37",
-                  "equipe_dom": "Angers",
-                  "equipe_vis": "Estac Troyes",
+                  "equipe_dom": "ANGERS SCO",
+                  "equipe_vis": "ESTAC TROYES",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -4337,8 +4337,8 @@
             "fields": {
                   "date_match": "2023-05-27",
                   "num_journee": "37",
-                  "equipe_dom": "Clermont Foot",
-                  "equipe_vis": "Lorient",
+                  "equipe_dom": "CLERMONT FOOT 63",
+                  "equipe_vis": "FC LORIENT",
                   "buts_dom": 2,
                   "buts_vis": 0
             }
@@ -4349,8 +4349,8 @@
             "fields": {
                   "date_match": "2023-05-27",
                   "num_journee": "37",
-                  "equipe_dom": "Lille",
-                  "equipe_vis": "Nantes",
+                  "equipe_dom": "LOSC LILLE",
+                  "equipe_vis": "FC NANTES",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -4361,8 +4361,8 @@
             "fields": {
                   "date_match": "2023-05-27",
                   "num_journee": "37",
-                  "equipe_dom": "Montpellier",
-                  "equipe_vis": "Nice",
+                  "equipe_dom": "MONTPELLIER HERAULT SC",
+                  "equipe_vis": "OGC NICE",
                   "buts_dom": 2,
                   "buts_vis": 3
             }
@@ -4373,8 +4373,8 @@
             "fields": {
                   "date_match": "2023-05-27",
                   "num_journee": "37",
-                  "equipe_dom": "Lyon",
-                  "equipe_vis": "Reims",
+                  "equipe_dom": "OLYMPIQUE LYONNAIS",
+                  "equipe_vis": "STADE DE REIMS",
                   "buts_dom": 3,
                   "buts_vis": 0
             }
@@ -4385,8 +4385,8 @@
             "fields": {
                   "date_match": "2023-05-27",
                   "num_journee": "37",
-                  "equipe_dom": "Marseille",
-                  "equipe_vis": "Stade Brestois 29",
+                  "equipe_dom": "OLYMPIQUE DE MARSEILLE",
+                  "equipe_vis": " STADE BRESTOIS 29",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -4397,8 +4397,8 @@
             "fields": {
                   "date_match": "2023-05-27",
                   "num_journee": "37",
-                  "equipe_dom": "Lens",
-                  "equipe_vis": "Ajaccio",
+                  "equipe_dom": "RC LENS",
+                  "equipe_vis": "AC AJACCIO",
                   "buts_dom": 3,
                   "buts_vis": 0
             }
@@ -4409,8 +4409,8 @@
             "fields": {
                   "date_match": "2023-05-27",
                   "num_journee": "37",
-                  "equipe_dom": "Strasbourg",
-                  "equipe_vis": "Paris Saint Germain",
+                  "equipe_dom": "RC STRASBOURG ALSACE",
+                  "equipe_vis": "PARIS SAINT-GERMAIN",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -4421,8 +4421,8 @@
             "fields": {
                   "date_match": "2023-05-27",
                   "num_journee": "37",
-                  "equipe_dom": "Rennes",
-                  "equipe_vis": "Monaco",
+                  "equipe_dom": "STADE RENNAIS FC",
+                  "equipe_vis": "AS MONACO",
                   "buts_dom": 2,
                   "buts_vis": 0
             }
@@ -4433,8 +4433,8 @@
             "fields": {
                   "date_match": "2023-05-27",
                   "num_journee": "37",
-                  "equipe_dom": "Toulouse",
-                  "equipe_vis": "Auxerre",
+                  "equipe_dom": "TOULOUSE FC",
+                  "equipe_vis": "AJ AUXERRE",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
@@ -4445,8 +4445,8 @@
             "fields": {
                   "date_match": "2023-06-03",
                   "num_journee": "38",
-                  "equipe_dom": "Ajaccio",
-                  "equipe_vis": "Marseille",
+                  "equipe_dom": "AC AJACCIO",
+                  "equipe_vis": "OLYMPIQUE DE MARSEILLE",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -4457,8 +4457,8 @@
             "fields": {
                   "date_match": "2023-06-03",
                   "num_journee": "38",
-                  "equipe_dom": "Auxerre",
-                  "equipe_vis": "Lens",
+                  "equipe_dom": "AJ AUXERRE",
+                  "equipe_vis": "RC LENS",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -4469,8 +4469,8 @@
             "fields": {
                   "date_match": "2023-06-03",
                   "num_journee": "38",
-                  "equipe_dom": "Monaco",
-                  "equipe_vis": "Toulouse",
+                  "equipe_dom": "AS MONACO",
+                  "equipe_vis": "TOULOUSE FC",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -4481,8 +4481,8 @@
             "fields": {
                   "date_match": "2023-06-03",
                   "num_journee": "38",
-                  "equipe_dom": "Lorient",
-                  "equipe_vis": "Strasbourg",
+                  "equipe_dom": "FC LORIENT",
+                  "equipe_vis": "RC STRASBOURG ALSACE",
                   "buts_dom": 2,
                   "buts_vis": 1
             }
@@ -4493,8 +4493,8 @@
             "fields": {
                   "date_match": "2023-06-03",
                   "num_journee": "38",
-                  "equipe_dom": "Nantes",
-                  "equipe_vis": "Angers",
+                  "equipe_dom": "FC NANTES",
+                  "equipe_vis": "ANGERS SCO",
                   "buts_dom": 1,
                   "buts_vis": 0
             }
@@ -4505,8 +4505,8 @@
             "fields": {
                   "date_match": "2023-06-03",
                   "num_journee": "38",
-                  "equipe_dom": "Nice",
-                  "equipe_vis": "Lyon",
+                  "equipe_dom": "OGC NICE",
+                  "equipe_vis": "OLYMPIQUE LYONNAIS",
                   "buts_dom": 3,
                   "buts_vis": 1
             }
@@ -4517,8 +4517,8 @@
             "fields": {
                   "date_match": "2023-06-03",
                   "num_journee": "38",
-                  "equipe_dom": "Paris Saint Germain",
-                  "equipe_vis": "Clermont Foot",
+                  "equipe_dom": "PARIS SAINT-GERMAIN",
+                  "equipe_vis": "CLERMONT FOOT 63",
                   "buts_dom": 2,
                   "buts_vis": 3
             }
@@ -4529,8 +4529,8 @@
             "fields": {
                   "date_match": "2023-06-03",
                   "num_journee": "38",
-                  "equipe_dom": "Stade Brestois 29",
-                  "equipe_vis": "Rennes",
+                  "equipe_dom": " STADE BRESTOIS 29",
+                  "equipe_vis": "STADE RENNAIS FC",
                   "buts_dom": 1,
                   "buts_vis": 2
             }
@@ -4541,8 +4541,8 @@
             "fields": {
                   "date_match": "2023-06-03",
                   "num_journee": "38",
-                  "equipe_dom": "Reims",
-                  "equipe_vis": "Montpellier",
+                  "equipe_dom": "STADE DE REIMS",
+                  "equipe_vis": "MONTPELLIER HERAULT SC",
                   "buts_dom": 1,
                   "buts_vis": 3
             }
@@ -4553,8 +4553,8 @@
             "fields": {
                   "date_match": "2023-06-03",
                   "num_journee": "38",
-                  "equipe_dom": "Estac Troyes",
-                  "equipe_vis": "Lille",
+                  "equipe_dom": "ESTAC TROYES",
+                  "equipe_vis": "LOSC LILLE",
                   "buts_dom": 1,
                   "buts_vis": 1
             }
