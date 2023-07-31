@@ -71,11 +71,18 @@ def clean_journees():
     l1_22_clean.close()
     f.close()
     
+# Récupère les données pour les clubs de Ligue 1, saison 2022 - 2023, à partir du json
+# Les données sont nettoyées en amont, car trop complexe et besoin d'une action manuelle.
 def get_clubs():
-    with open(json_path + 'raw/journees_ligue1_2022.json') as f:
-        liste_club = json.load(f)
-    
+    with open(json_path + 'clean/clubs_dict.json') as f:   
+        return json.load(f)
    
+# Récupère les données pour les clubs de Ligue 1, saison 2022 - 2023.
+def get_players() :
+    pass
+    
+    
+    
 if __name__ == '__main__' :
     get_journees()
     clean_journees()

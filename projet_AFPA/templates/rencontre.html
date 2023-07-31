@@ -1,0 +1,14 @@
+<!doctype html>
+
+<title> Journéé {{date_journee}} </title>
+
+<p> Résultats des rencontres lors de la journée n° {{date_journee}}</p>
+
+{% if journee_list %}
+    <ul>
+    {% for rencontre in journee_list %}
+        <li> {{rencontre.equipe_dom}} {{rencontre.buts_dom}} - {{rencontre.buts_vis}} {{rencontre.equipe_vis}} </li>
+    {% endfor %}
+    </ul>
+{% endif %}
+
