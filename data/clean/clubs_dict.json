@@ -3,40 +3,40 @@
             "model": "projet_AFPA.club",
             "pk": 1,
             "fields": {
-                  "nom": "LOSC LILLE",
-                  "logo": "https://media-3.api-sports.io/football/teams/79.png",
+                  "nom": "AC AJACCIO",
+                  "logo": "https://media-3.api-sports.io/football/teams/98.png",
                   "nom_ligue": "Ligue 1",
-                  "ville": "Lille"
+                  "ville": "Ajaccio"
             }
       },
       {
             "model": "projet_AFPA.club",
             "pk": 2,
             "fields": {
-                  "nom": "FC LORIENT",
-                  "logo": "https://media-3.api-sports.io/football/teams/97.png",
+                  "nom": "AJ AUXERRE",
+                  "logo": "https://media-1.api-sports.io/football/teams/108.png",
                   "nom_ligue": "Ligue 1",
-                  "ville": "Lorient"
+                  "ville": "Auxerre"
             }
       },
       {
             "model": "projet_AFPA.club",
             "pk": 3,
             "fields": {
-                  "nom": "ESTAC TROYES",
-                  "logo": "https://media-2.api-sports.io/football/teams/110.png",
+                  "nom": "ANGERS SCO",
+                  "logo": "https://media-3.api-sports.io/football/teams/77.png",
                   "nom_ligue": "Ligue 1",
-                  "ville": "Troyes"
+                  "ville": "Angers"
             }
       },
       {
             "model": "projet_AFPA.club",
             "pk": 4,
             "fields": {
-                  "nom": "STADE DE REIMS",
-                  "logo": "https://media-1.api-sports.io/football/teams/93.png",
+                  "nom": "AS MONACO",
+                  "logo": "https://media-1.api-sports.io/football/teams/91.png",
                   "nom_ligue": "Ligue 1",
-                  "ville": "Reims"
+                  "ville": "Monaco"
             }
       },
       {
@@ -53,35 +53,25 @@
             "model": "projet_AFPA.club",
             "pk": 6,
             "fields": {
-                  "nom": "TOULOUSE FC",
-                  "logo": "https://media-3.api-sports.io/football/teams/96.png",
+                  "nom": "ESTAC TROYES",
+                  "logo": "https://media-2.api-sports.io/football/teams/110.png",
                   "nom_ligue": "Ligue 1",
-                  "ville": "Toulouse"
+                  "ville": "Troyes"
             }
       },
       {
             "model": "projet_AFPA.club",
             "pk": 7,
             "fields": {
-                  "nom": "STADE RENNAIS FC",
-                  "logo": "https://media-3.api-sports.io/football/teams/94.png",
+                  "nom": "FC LORIENT",
+                  "logo": "https://media-3.api-sports.io/football/teams/97.png",
                   "nom_ligue": "Ligue 1",
-                  "ville": "Rennes"
+                  "ville": "Lorient"
             }
       },
       {
             "model": "projet_AFPA.club",
             "pk": 8,
-            "fields": {
-                  "nom": "OLYMPIQUE LYONNAIS",
-                  "logo": "https://media-2.api-sports.io/football/teams/80.png",
-                  "nom_ligue": "Ligue 1",
-                  "ville": "Lyon"
-            }
-      },
-      {
-            "model": "projet_AFPA.club",
-            "pk": 9,
             "fields": {
                   "nom": "FC NANTES",
                   "logo": "https://media-3.api-sports.io/football/teams/83.png",
@@ -91,22 +81,32 @@
       },
       {
             "model": "projet_AFPA.club",
+            "pk": 9,
+            "fields": {
+                  "nom": "LOSC LILLE",
+                  "logo": "https://media-3.api-sports.io/football/teams/79.png",
+                  "nom_ligue": "Ligue 1",
+                  "ville": "Lille"
+            }
+      },
+      {
+            "model": "projet_AFPA.club",
             "pk": 10,
             "fields": {
-                  "nom": "RC LENS",
-                  "logo": "https://media-3.api-sports.io/football/teams/116.png",
+                  "nom": "MONTPELLIER HERAULT SC",
+                  "logo": "https://media-3.api-sports.io/football/teams/82.png",
                   "nom_ligue": "Ligue 1",
-                  "ville": "Lens"
+                  "ville": "Montpellier"
             }
       },
       {
             "model": "projet_AFPA.club",
             "pk": 11,
             "fields": {
-                  "nom": "AS MONACO",
-                  "logo": "https://media-1.api-sports.io/football/teams/91.png",
+                  "nom": "OGC NICE",
+                  "logo": "https://media-3.api-sports.io/football/teams/84.png",
                   "nom_ligue": "Ligue 1",
-                  "ville": "Monaco"
+                  "ville": "Nice"
             }
       },
       {
@@ -123,40 +123,40 @@
             "model": "projet_AFPA.club",
             "pk": 13,
             "fields": {
-                  "nom": "MONTPELLIER HERAULT SC",
-                  "logo": "https://media-3.api-sports.io/football/teams/82.png",
+                  "nom": "OLYMPIQUE LYONNAIS",
+                  "logo": "https://media-2.api-sports.io/football/teams/80.png",
                   "nom_ligue": "Ligue 1",
-                  "ville": "Montpellier"
+                  "ville": "Lyon"
             }
       },
       {
             "model": "projet_AFPA.club",
             "pk": 14,
             "fields": {
-                  "nom": "AC AJACCIO",
-                  "logo": "https://media-3.api-sports.io/football/teams/98.png",
+                  "nom": "PARIS SAINT-GERMAIN",
+                  "logo": "https://media-1.api-sports.io/football/teams/85.png",
                   "nom_ligue": "Ligue 1",
-                  "ville": "Ajaccio"
+                  "ville": "Paris"
             }
       },
       {
             "model": "projet_AFPA.club",
             "pk": 15,
             "fields": {
-                  "nom": "ANGERS SCO",
-                  "logo": "https://media-3.api-sports.io/football/teams/77.png",
+                  "nom": "RC LENS",
+                  "logo": "https://media-3.api-sports.io/football/teams/116.png",
                   "nom_ligue": "Ligue 1",
-                  "ville": "Angers"
+                  "ville": "Lens"
             }
       },
       {
             "model": "projet_AFPA.club",
             "pk": 16,
             "fields": {
-                  "nom": "AJ AUXERRE",
-                  "logo": "https://media-1.api-sports.io/football/teams/108.png",
+                  "nom": "RC STRASBOURG ALSACE",
+                  "logo": "https://media-3.api-sports.io/football/teams/95.png",
                   "nom_ligue": "Ligue 1",
-                  "ville": "Auxerre"
+                  "ville": "Strasbourg"
             }
       },
       {
@@ -173,30 +173,30 @@
             "model": "projet_AFPA.club",
             "pk": 18,
             "fields": {
-                  "nom": "OGC NICE",
-                  "logo": "https://media-3.api-sports.io/football/teams/84.png",
+                  "nom": "STADE DE REIMS",
+                  "logo": "https://media-1.api-sports.io/football/teams/93.png",
                   "nom_ligue": "Ligue 1",
-                  "ville": "Nice"
+                  "ville": "Reims"
             }
       },
       {
             "model": "projet_AFPA.club",
             "pk": 19,
             "fields": {
-                  "nom": "RC STRASBOURG ALSACE",
-                  "logo": "https://media-3.api-sports.io/football/teams/95.png",
+                  "nom": "STADE RENNAIS FC",
+                  "logo": "https://media-3.api-sports.io/football/teams/94.png",
                   "nom_ligue": "Ligue 1",
-                  "ville": "Strasbourg"
+                  "ville": "Rennes"
             }
       },
       {
             "model": "projet_AFPA.club",
             "pk": 20,
             "fields": {
-                  "nom": "PARIS SAINT-GERMAIN",
-                  "logo": "https://media-1.api-sports.io/football/teams/85.png",
+                  "nom": "TOULOUSE FC",
+                  "logo": "https://media-3.api-sports.io/football/teams/96.png",
                   "nom_ligue": "Ligue 1",
-                  "ville": "Paris"
+                  "ville": "Toulouse"
             }
       }
 ]

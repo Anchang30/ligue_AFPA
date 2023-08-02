@@ -1,3 +1,16 @@
 <p> COUCOU ICI, IL Y AURA UN JOLI TABLEAU QUI AFFICHE LE CLASSEMENT
     DE LA DERNI7RE JOURN2E !
 </p>
+
+{% if classement %}
+    <ul>
+    {% for key, value in classement.items %}
+        <li> {{ key }}&emsp;&emsp;&emsp;{{ value }}&emsp;&emsp;&emsp;{{value.nb_pts}} </li>
+    {% endfor %}
+    </ul>
+
+{{rencontres.1}}<br />
+<br />
+<br />
+{{liste_clubs}}<br />
+{% endif %}
