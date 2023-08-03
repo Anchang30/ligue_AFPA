@@ -29,8 +29,9 @@ def classement(request, date_journee = 0):
             get_score(club, classement, rencontre)
             classement[club]["joué"] +=1
             classement[club]["diff"] = classement[club]['buts_mis'] - classement[club]['buts_pris']
+    sorted_ranking = dict(sorted(classement.items(), key=lambda x:(x[1]["nb_pts"], x[1]["diff"]),reverse = True))
     template = loader.get_template("classement.html")
-    context = {"classement" : classement,
+    context = {"classement" : sorted_ranking,
                "date_journee":date_journee,
                "rencontres" : rencontre_list,
                "liste_clubs":liste_clubs}
