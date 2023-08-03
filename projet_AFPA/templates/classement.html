@@ -1,14 +1,35 @@
 <title> Classement de la journée n°{{date_journee}} </title>
 
-<p> COUCOU ICI, IL Y AURA UN JOLI TABLEAU QUI AFFICHE LE CLASSEMENT
-    DE LA DERNI7RE JOURN2E !
+<p> CLASSEMENT DE LA JOURNEE N° {{date_journee}}
 </p>
 
-{% if classement %}
-    <ul>
-    {% for key, value in classement.items %}
-        <li> {{ key }}&emsp;&emsp;&emsp;{{ value }}&emsp;&emsp;&emsp;{{value.nb_pts}} </li>
-        <br/>
+<table style="width:100%">
+    <tr>
+      <th>POSITION</th>
+      <th>CLUB</th>
+      <th>POINTS</th>
+      <th>JOUES</th>
+      <th>GAGNES</th>
+      <th>NULS</th>
+      <th>PERDUS</th>
+      <th>BUTS POUR</th>
+      <th>BUTS CONTRE</th>
+      <th>DIFF.</th>
+    </tr>
+  
+    {% if classement %}
+    {% for ele in classement %}
+        <tr><td>{{ele.0}}</td>
+        <td><img width=30 height=30 alt={{ele.1}} src= {{ele.2.logo}}> {{ele.1}}</td>
+        <td>{{ele.2.nb_pts}}</td>
+        <td>{{ele.2.joué}}</td>
+        <td>{{ele.2.gagné}}</td>
+        <td>{{ele.2.nul}}</td>
+        <td>{{ele.2.perdu}}</td>
+        <td>{{ele.2.buts_mis}}</td>
+        <td>{{ele.2.buts_pris}}</td>
+        <td>{{ele.2.diff}}</td>
+    </tr>
     {% endfor %}
-    </ul>
 {% endif %}
+</table>
