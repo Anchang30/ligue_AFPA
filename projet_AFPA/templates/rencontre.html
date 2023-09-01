@@ -22,20 +22,38 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" 
     integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
     <br>
+    <div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups" style="justify-content: center;">
+        <div class="btn-group me-2" role="group" aria-label="First group">
+            {% for journee in journees_liste %}
+            {% if journee == date_journee %}
+                <a href="{{journee}}" type="button" class="btn btn-primary"> {{journee}} </button> </a>
+            {% else %}
+                <a href="{{journee}}" type="button" class="btn btn-secondary"> {{journee}} </button> </a>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
     <br>
-    <div class="row justify-content-center">
+
+    <div class="row justify-content-center container-fluid">
         <div class="col-auto">
-            <table class="table table-responsive">
+            <table class="table table-responsive table-lg">
                 <thead>
                     <tr class="table-primary">
-                    <th class="text-center" scope="col">  Résultats des rencontres lors de la journée n° {{date_journee}} </th>
+                    <th class="text-center" scope="col" colspan="7">  Résultats des rencontres lors de la journée n° {{date_journee}} </th>
                 </tr>
                  </thead>
       <tbody>
         {% if journee_list %}
         {% for rencontre in journee_list%}
             <tr class="table-light">
-            <th class="text-center" scope ="row">{{rencontre.0.equipe_dom}} <img width=30 height=30 src= {{rencontre.1.0}}> {{rencontre.0.buts_dom}} -  {{rencontre.0.buts_vis}} <img width=30 height=30  src= {{rencontre.1.1}}> {{rencontre.0.equipe_vis}}</th>
+            <th class="text-align" style="text-align: right" scope ="row"> {{rencontre.0.equipe_dom}}    </th>
+            <th class="text-center" scope="row"> <img width=30 height=30 src= {{rencontre.1.0}}></th>
+            <th class="text-center" scope="row"> {{rencontre.0.buts_dom}} </th>
+            <th class="text-center" scope="row"> - </th>
+            <th class="text-center" scope="row"> {{rencontre.0.buts_vis}} </th>
+            <th class="text-center" scope="row"> <img width=30 height=30  src= {{rencontre.1.1}}></th>
+            <th class="text-align" style="text-align: left" scope="row">  {{rencontre.0.equipe_vis}}</th>
         </tr>
         {% endfor %}
         {% endif %}
@@ -44,4 +62,3 @@
 </div>
 </body>   
 </html>
-

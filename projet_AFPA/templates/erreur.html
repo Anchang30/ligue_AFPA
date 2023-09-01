@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+    {% load static %} 
+    <head>
+        <link rel="stylesheet" href="{% static 'projet_AFPA/style.css' %}">
+    <link rel="shortcut icon" type="image/png" href="{% static 'projet_AFPA/images/favicon.png' %}">
+        <meta charset="utf-8">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+        <title> ERREUR DE JOURNEE </title>
+</head>
+
+<body>   
+  <header class="header relative HeaderNav-fixed">
+      
+      <h1> <a href="{% url 'afpa:home' %}" > LIGUE AFPA </a> </h1>
+      <div class="button-container"> 
+          <a href= "{% url 'afpa:classement' %}" type= button class="btn btn-success btn-lg"> Classement </a>
+          <a href="{% url 'afpa:rencontre' %}" type= button class="btn btn-success btn-lg"> Rencontres </a>
+          <!-- <a href="statistiques/" type= button class="btn btn-success btn-lg"> Statistiques </a> -->
+      </div>
+  </header>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" 
+  integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+
+<h1 class="display-1 text-center" style= "color:red" > La journée n°{{date_journee}} n'existe pas ! </h1>
+
+</body>   
+</html>

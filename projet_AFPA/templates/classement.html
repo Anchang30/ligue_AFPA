@@ -21,13 +21,23 @@
   </header>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" 
   integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+<br>
+<div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups" style="justify-content: center;">
+    <div class="btn-group me-2" role="group" aria-label="First group">
+        {% for journee in journees_liste %}
+        {% if journee == date_journee %}
+            <a href="{{journee}}" type="button" class="btn btn-primary"> {{journee}} </button> </a>
+        {% else %}
+            <a href="{{journee}}" type="button" class="btn btn-secondary"> {{journee}} </button> </a>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
+<br>
 
-
-<h2> CLASSEMENT DE LA JOURNEE N° {{date_journee}}</h2>
-
-<div class="row justify-content-center">
+<div class="row justify-content-center container-fluid">
     <div class="col-auto">
-        <table class="table table-responsive">
+        <table class="table table-responsive table-sm">
             <thead>
                 <tr class="table-primary">
                 <th class="text-center" scope="col"> POSITION </th>
